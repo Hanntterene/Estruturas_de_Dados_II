@@ -16,25 +16,42 @@ def estaOrdenado(array):
         array[i], array[i_menor] = array[i_menor], array[i]
     return array
 
-def buscaOrdenada(array, elemento):
+def buscaOrdenada(array, elemento, tempo):
     n  = len (array)
     for i in range(n - 1):
+        tempo = tempo + 1
         if elemento == array[i]:
-            return i
-    return -1
+            valor = i
+            return valor, tempo
+    valor = -1
+    return valor, tempo
 
 # ----------------------------------------------------------------------
 
 lista = [9, 7, 6, 8, 2, 4, 5, 1, 3]
 print (lista)
-estaOrdenado(lista)
-print(lista)
 
 elemento = int(input("digite o elemento = "))
 print ("buscando elemento = ", elemento)
-valor = buscaOrdenada(lista, elemento)
+
+print("----------LISTA NÃO ORDENADA---------")
+valor, tempo = buscaOrdenada(lista, elemento, tempo = 0)
 
 if valor == -1:
-    print ("elemento não existe nessa lista")
+    print ("elemento não existe nessa lista", 
+           "tempo de busca = ", tempo)
 else:
-    print("elemento está na posição = ", valor)
+    print("elemento está na posição = ", valor, "\ntempo de busca = ", tempo)
+
+print("------------LISTA ORDENADA-----------")
+estaOrdenado(lista)
+print(lista)
+tempo = 0
+
+valor, tempo = buscaOrdenada(lista, elemento, tempo = 0)
+
+if valor == -1:
+    print ("elemento não existe nessa lista", 
+           "tempo de busca = ", tempo)
+else:
+    print("elemento está na posição = ", valor, "\ntempo de busca = ", tempo)
