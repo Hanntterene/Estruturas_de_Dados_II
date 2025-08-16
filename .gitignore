@@ -1,0 +1,21 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Compilações C/C++
+*.o
+*.out
+/build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Java
+*.class
+target/
+
+# IDEs
+.vscode/
+.idea/
