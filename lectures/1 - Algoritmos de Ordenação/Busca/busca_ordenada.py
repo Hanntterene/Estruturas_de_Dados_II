@@ -39,7 +39,7 @@ valor, tempo = buscaOrdenada(lista, elemento, tempo = 0)
 
 if valor == -1:
     print ("elemento não existe nessa lista", 
-           "tempo de busca = ", tempo)
+           "\ntempo de busca = ", tempo)
 else:
     print("elemento está na posição = ", valor, "\ntempo de busca = ", tempo)
 
