@@ -33,3 +33,4 @@ if valor == -1:
            "tempo de busca = ", tempo)
 else:
     print("elemento está na posição = ", valor, "\ntempo de busca = ", tempo)
+    
