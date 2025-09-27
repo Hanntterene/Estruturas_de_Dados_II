@@ -1,0 +1,8 @@
+Bubble Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 45 comparações; 0.008 ms
+Insertion Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 9 comparações; 0.006 ms
+Selection Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 45 comparações; 0.009 ms
+Merge Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 19 comparações; 0.019 ms
+Quick Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 45 comparações; 0.017 ms
+Heap Sort; [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 41 comparações; 0.018 ms
+
+Algoritmo mais rápido: Insertion Sort

@@ -1,0 +1,1 @@
+Arquivo 'input8.txt' inválido: Arquivo deve conter pelo menos duas linhas (tamanho e gerador).
