@@ -1,22 +1,10 @@
-import os
+
+
 import sys
 import random
 import time
 
-# Caminho da pasta com os arquivos txt de entrada
-pasta = os.path.join(os.path.dirname(__file__), 'AT01 - Casos de teste')
-
-# Lista todos os arquivos .txt na pasta de entrada
-arquivos_txt = sorted([f for f in os.listdir(pasta) if f.startswith('input') and f.endswith('.txt')])
-
-# Cria a pasta de saída se não existir
-saida_dir = os.path.join(os.path.dirname(__file__), 'saidas')
-os.makedirs(saida_dir, exist_ok=True)
-
-# ------------------ Algoritmos de Ordenação ------------------
-
 def bubble_sort(array):
-    """Bubble Sort: ordenação simples O(n²)"""
     n = len(array)
     comparacoes = 0
     for i in range(n):
@@ -27,7 +15,6 @@ def bubble_sort(array):
     return comparacoes
 
 def insertion_sort(array):
-    """Insertion Sort: ordenação simples O(n²)"""
     n = len(array)
     comparacoes = 0
     for i in range(1, n):
@@ -44,7 +31,6 @@ def insertion_sort(array):
     return comparacoes
 
 def selection_sort(array):
-    """Selection Sort: ordenação simples O(n²)"""
     n = len(array)
     comparacoes = 0
     for i in range(n):
@@ -57,7 +43,6 @@ def selection_sort(array):
     return comparacoes
 
 def merge_sort(array):
-    """Merge Sort: ordenação eficiente O(n log n)"""
     comparacoes = [0]
     def merge(arr, l, m, r):
         left = arr[l:m+1]
@@ -81,7 +66,6 @@ def merge_sort(array):
             arr[k] = right[j]
             j += 1
             k += 1
-
     def merge_sort_rec(arr, l, r):
         if l < r:
             m = (l + r) // 2
@@ -92,9 +76,10 @@ def merge_sort(array):
     return comparacoes[0]
 
 def quick_sort(array):
-    """Quick Sort: ordenação eficiente O(n log n)"""
     comparacoes = [0]
     def partition(arr, low, high):
+        pivot_index = random.randint(low, high)
+        arr[pivot_index], arr[high] = arr[high], arr[pivot_index]
         pivot = arr[high]
         i = low - 1
         for j in range(low, high):
@@ -104,7 +89,6 @@ def quick_sort(array):
                 arr[i], arr[j] = arr[j], arr[i]
         arr[i + 1], arr[high] = arr[high], arr[i + 1]
         return i + 1
-
     def quick_sort_rec(arr, low, high):
         if low < high:
             pi = partition(arr, low, high)
@@ -114,13 +98,11 @@ def quick_sort(array):
     return comparacoes[0]
 
 def heap_sort(array):
-    """Heap Sort: ordenação eficiente O(n log n)"""
     comparacoes = [0]
     def heapify(arr, n, i):
         largest = i
         l = 2 * i + 1
         r = 2 * i + 2
-
         if l < n:
             comparacoes[0] += 1
             if arr[l] > arr[largest]:
@@ -129,11 +111,9 @@ def heap_sort(array):
             comparacoes[0] += 1
             if arr[r] > arr[largest]:
                 largest = r
-
         if largest != i:
             arr[i], arr[largest] = arr[largest], arr[i]
             heapify(arr, n, largest)
-
     n = len(array)
     for i in range(n // 2 - 1, -1, -1):
         heapify(array, n, i)
@@ -142,88 +122,116 @@ def heap_sort(array):
         heapify(array, i, 0)
     return comparacoes[0]
 
+def cocktail_sort(array):
+    n = len(array)
+    comparacoes = 0
+    swapped = True
+    start = 0
+    end = n - 1
+    while swapped:
+        swapped = False
+        for i in range(start, end):
+            comparacoes += 1
+            if array[i] > array[i + 1]:
+                array[i], array[i + 1] = array[i + 1], array[i]
+                swapped = True
+        if not swapped:
+            break
+        swapped = False
+        end -= 1
+        for i in range(end - 1, start - 1, -1):
+            comparacoes += 1
+            if array[i] > array[i + 1]:
+                array[i], array[i + 1] = array[i + 1], array[i]
+                swapped = True
+        start += 1
+    return comparacoes
+
 algoritmos = [
-    ("Bubble Sort", bubble_sort),
     ("Insertion Sort", insertion_sort),
     ("Selection Sort", selection_sort),
+    ("Bubble Sort", bubble_sort),
     ("Merge Sort", merge_sort),
     ("Quick Sort", quick_sort),
-    ("Heap Sort", heap_sort)
+    ("Heap Sort", heap_sort),
+    ("Cocktail Sort", cocktail_sort)
 ]
 
-# ----------- Rodar todos os casos de teste -----------
+if len(sys.argv) != 3:
+    print("Uso correto: python Ordenacao-Lohanna.py <entrada.txt> <saida.txt>")
+    sys.exit(1)
 
-for nome_arquivo in arquivos_txt:
-    print(f"\nProcessando arquivo: {nome_arquivo}...")
-    numero_input = ''.join(filter(str.isdigit, nome_arquivo))
-    saida_path = os.path.join(saida_dir, f"output{numero_input}.txt")
-    try:
-        caminho_arquivo = os.path.join(pasta, nome_arquivo)
-        with open(caminho_arquivo, 'r', encoding='utf-8') as f:
-            linhas = [linha.strip().lower() for linha in f.readlines() if linha.strip()]
-            if len(linhas) < 2:
-                raise ValueError("Arquivo deve conter pelo menos duas linhas (tamanho e gerador).")
+entrada_path = sys.argv[1]
+saida_path = sys.argv[2]
 
-            tamanho_str = ''.join(filter(str.isdigit, linhas[0]))
-            if not tamanho_str:
-                raise ValueError("O valor do tamanho não contém nenhum dígito.")
-            tamanho = int(tamanho_str)
-            if tamanho <= 0:
-                raise ValueError("O valor do tamanho deve ser um número inteiro maior que zero.")
+try:
+    with open(entrada_path, 'r', encoding='utf-8') as f:
+        linhas = [linha.strip().lower() for linha in f.readlines() if linha.strip()]
+        if len(linhas) < 2:
+            raise ValueError("Arquivo deve conter pelo menos duas linhas (tamanho e gerador).")
+        tamanho_str = ''.join(filter(str.isdigit, linhas[0]))
+        if not tamanho_str:
+            raise ValueError("O valor do tamanho não contém nenhum dígito.")
+        tamanho = int(tamanho_str)
+        if tamanho <= 0:
+            raise ValueError("O valor do tamanho deve ser um número inteiro maior que zero.")
+        gerador = None
+        for letra in linhas[1]:
+            if letra in ('r', 'c', 'd'):
+                gerador = letra
+                break
+        if not gerador:
+            raise ValueError("O gerador deve conter pelo menos uma letra válida: 'r', 'c' ou 'd'.")
+        if gerador == 'c':
+            vetor = list(range(1, tamanho + 1))
+        elif gerador == 'd':
+            vetor = list(range(tamanho, 0, -1))
+        elif gerador == 'r':
+            vetor = [random.randint(0, 32000) for _ in range(tamanho)]
+        else:
+            raise ValueError("Modo de geração inválido.")
 
-            gerador = None
-            for letra in linhas[1]:
-                if letra in ('r', 'c', 'd'):
-                    gerador = letra
-                    break
-            if not gerador:
-                raise ValueError("O gerador deve conter pelo menos uma letra válida: 'r', 'c' ou 'd'.")
+    print(f"Vetor gerado com {tamanho} elementos. Executando algoritmos...")
 
-            if gerador == 'c':
-                vetor = list(range(1, tamanho + 1))
-            elif gerador == 'd':
-                vetor = list(range(tamanho, 0, -1))
-            elif gerador == 'r':
-                vetor = [random.randint(0, 32000) for _ in range(tamanho)]
-            else:
-                raise ValueError("Modo de geração inválido.")
+    resultados = []
+    for nome, func in algoritmos:
+        print(f"  {nome}: executando...")
+        vetor_copia = vetor.copy()
+        inicio = time.perf_counter()
+        comparacoes = func(vetor_copia)
+        fim = time.perf_counter()
+        tempo_ms = (fim - inicio) * 1000
+        vetor_str = ' '.join(str(x) for x in vetor_copia)
+        linha = (
+            f"{nome}; "
+            f"{vetor_str}; "
+            f"{comparacoes} comparações; "
+            f"{tempo_ms:.3f} ms\n"
+        )
+        resultados.append((nome, tempo_ms, comparacoes, linha))
 
-        print(f"  Vetor gerado com {tamanho} elementos. Executando algoritmos...")
+    menor_tempo = min(r[1] for r in resultados)
+    algoritmos_mais_rapidos = [r[0] for r in resultados if abs(r[1] - menor_tempo) < 1e-6]
+    menor_comparacoes = min(r[2] for r in resultados)
+    algoritmos_menos_comparacoes = [r[0] for r in resultados if r[2] == menor_comparacoes]
 
-        resultados = []
-        for nome, func in algoritmos:
-            print(f"    {nome}: executando...")
-            vetor_copia = vetor.copy()
-            inicio = time.time()
-            comparacoes = func(vetor_copia)
-            fim = time.time()
-            tempo_ms = (fim - inicio) * 1000
-            linha = (
-                f"{nome}; "
-                f"{vetor_copia}; "
-                f"{comparacoes} comparações; "
-                f"{tempo_ms:.3f} ms\n"
-            )
-            resultados.append((nome, tempo_ms, linha))
+    with open(saida_path, "w", encoding="utf-8") as saida:
+        for _, _, _, linha in resultados:
+            saida.write(linha)
+        if len(algoritmos_mais_rapidos) == 1:
+            saida.write(f"\nAlgoritmo mais rápido: {algoritmos_mais_rapidos[0]}\n")
+            print(f"Mais rápido: {algoritmos_mais_rapidos[0]}")
+        else:
+            saida.write(f"\nAlgoritmos mais rápidos: {', '.join(algoritmos_mais_rapidos)}\n")
+            print(f"Mais rápidos: {', '.join(algoritmos_mais_rapidos)}")
+        if len(algoritmos_menos_comparacoes) == 1:
+            saida.write(f"Algoritmo com menos comparações: {algoritmos_menos_comparacoes[0]}\n")
+            print(f"Menos comparações: {algoritmos_menos_comparacoes[0]}")
+        else:
+            saida.write(f"Algoritmos com menos comparações: {', '.join(algoritmos_menos_comparacoes)}\n")
+            print(f"Menos comparações: {', '.join(algoritmos_menos_comparacoes)}")
 
-        # Descobre o(s) mais rápido(s)
-        menor_tempo = min(r[1] for r in resultados)
-        algoritmos_mais_rapidos = [r[0] for r in resultados if abs(r[1] - menor_tempo) < 1e-6]
-
-        with open(saida_path, "w", encoding="utf-8") as saida:
-            for _, _, linha in resultados:
-                saida.write(linha)
-            if len(algoritmos_mais_rapidos) == 1:
-                saida.write(f"\nAlgoritmo mais rápido: {algoritmos_mais_rapidos[0]}\n")
-                print(f"  Mais rápido: {algoritmos_mais_rapidos[0]}")
-            else:
-                saida.write(f"\nAlgoritmos mais rápidos: {', '.join(algoritmos_mais_rapidos)}\n")
-                print(f"  Mais rápidos: {', '.join(algoritmos_mais_rapidos)}")
-
-    except Exception as e:
-        print(f"  Erro ao processar {nome_arquivo}: {str(e)}")
-        with open(saida_path, "w", encoding="utf-8") as saida:
-            saida.write(f"Arquivo '{nome_arquivo}' inválido: {str(e)}\n")
-
-print("="*40)
-print("Todos os casos de teste foram processados. Resultados salvos na pasta 'saidas'.")
+except Exception as e:
+    print(f"Erro ao processar '{entrada_path}': {str(e)}")
+    with open(saida_path, "w", encoding="utf-8") as saida:
+        saida.write(f"Arquivo '{entrada_path}' inválido: {str(e)}\n")

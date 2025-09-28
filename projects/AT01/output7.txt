@@ -1,0 +1,1 @@
+Arquivo 'input7.txt' inválido: [Errno 2] No such file or directory: 'input7.txt'
