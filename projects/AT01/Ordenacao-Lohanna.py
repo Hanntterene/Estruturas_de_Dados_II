@@ -1,8 +1,8 @@
-
-
 import sys
 import random
 import time
+
+# --- Algoritmos de ordenação utilizados no trabalho ---
 
 def bubble_sort(array):
     n = len(array)
@@ -20,6 +20,7 @@ def insertion_sort(array):
     for i in range(1, n):
         key = array[i]
         j = i - 1
+        # Laço para mover elementos maiores que key para frente
         while j >= 0:
             comparacoes += 1
             if array[j] > key:
@@ -49,6 +50,7 @@ def merge_sort(array):
         right = arr[m+1:r+1]
         i = j = 0
         k = l
+        # Intercala as duas metades ordenadas
         while i < len(left) and j < len(right):
             comparacoes[0] += 1
             if left[i] <= right[j]:
@@ -78,6 +80,7 @@ def merge_sort(array):
 def quick_sort(array):
     comparacoes = [0]
     def partition(arr, low, high):
+        # Pivô aleatório para evitar pior caso em listas ordenadas
         pivot_index = random.randint(low, high)
         arr[pivot_index], arr[high] = arr[high], arr[pivot_index]
         pivot = arr[high]
@@ -103,6 +106,7 @@ def heap_sort(array):
         largest = i
         l = 2 * i + 1
         r = 2 * i + 2
+        # Compara filhos com o nó atual para manter a propriedade de heap
         if l < n:
             comparacoes[0] += 1
             if arr[l] > arr[largest]:
@@ -115,8 +119,10 @@ def heap_sort(array):
             arr[i], arr[largest] = arr[largest], arr[i]
             heapify(arr, n, largest)
     n = len(array)
+    # Monta o heap
     for i in range(n // 2 - 1, -1, -1):
         heapify(array, n, i)
+    # Extrai elementos do heap um a um
     for i in range(n - 1, 0, -1):
         array[0], array[i] = array[i], array[0]
         heapify(array, i, 0)
@@ -128,6 +134,7 @@ def cocktail_sort(array):
     swapped = True
     start = 0
     end = n - 1
+    # Variação do bubble sort que percorre o vetor nos dois sentidos
     while swapped:
         swapped = False
         for i in range(start, end):
@@ -147,6 +154,7 @@ def cocktail_sort(array):
         start += 1
     return comparacoes
 
+# --- Lista dos algoritmos ---
 algoritmos = [
     ("Insertion Sort", insertion_sort),
     ("Selection Sort", selection_sort),
@@ -157,6 +165,7 @@ algoritmos = [
     ("Cocktail Sort", cocktail_sort)
 ]
 
+# --- Leitura dos argumentos e do arquivo de entrada ---
 if len(sys.argv) != 3:
     print("Uso correto: python Ordenacao-Lohanna.py <entrada.txt> <saida.txt>")
     sys.exit(1)
@@ -182,6 +191,7 @@ try:
                 break
         if not gerador:
             raise ValueError("O gerador deve conter pelo menos uma letra válida: 'r', 'c' ou 'd'.")
+        # Geração do vetor conforme o tipo solicitado
         if gerador == 'c':
             vetor = list(range(1, tamanho + 1))
         elif gerador == 'd':
@@ -194,6 +204,7 @@ try:
     print(f"Vetor gerado com {tamanho} elementos. Executando algoritmos...")
 
     resultados = []
+    # Executa todos os algoritmos e armazena resultados
     for nome, func in algoritmos:
         print(f"  {nome}: executando...")
         vetor_copia = vetor.copy()
@@ -202,19 +213,19 @@ try:
         fim = time.perf_counter()
         tempo_ms = (fim - inicio) * 1000
         vetor_str = ' '.join(str(x) for x in vetor_copia)
+        # Formato de saída conforme o enunciado
         linha = (
-            f"{nome}; "
-            f"{vetor_str}; "
-            f"{comparacoes} comparações; "
-            f"{tempo_ms:.3f} ms\n"
+            f"{nome.replace(' ', '')}: {vetor_str}, {comparacoes} comp, {tempo_ms:.3f} ms\n"
         )
         resultados.append((nome, tempo_ms, comparacoes, linha))
 
+    # Descobre o mais rápido e o com menos comparações
     menor_tempo = min(r[1] for r in resultados)
     algoritmos_mais_rapidos = [r[0] for r in resultados if abs(r[1] - menor_tempo) < 1e-6]
     menor_comparacoes = min(r[2] for r in resultados)
     algoritmos_menos_comparacoes = [r[0] for r in resultados if r[2] == menor_comparacoes]
 
+    # --- Escrita dos resultados no arquivo de saída ---
     with open(saida_path, "w", encoding="utf-8") as saida:
         for _, _, _, linha in resultados:
             saida.write(linha)
