@@ -1,0 +1,1256 @@
+NUM_CAMPOS:6
+6|Naruto Shippuuden|500|48518|233346|4.81|
+6|Shugo Chara|51|33688|163641|4.86|
+6|BLEACH|366|23900|115445|4.83|
+6|Naruto|220|16613|79667|4.8|
+6|Skip Beat!|0|15011|73683|4.91|Comedy, Drama, Romance
+6|REBORN!|0|12542|61262|4.88|
+6|Gintama|379|11435|55745|4.87|
+6|La Corda d'Oro ~primo passo~ and ~secondo passo~|0|9555|46479|4.86|Harem, Music, Romance
+6|Eyeshield 21|0|8466|41028|4.85|Action, Comedy, Sports
+6|Hayate the Combat Butler! (S1 e S2)|77|5689|27576|4.85|
+6|Natsume Yuujinchou|39|5158|25208|4.89|Drama, Fantasy, Slice Of Life
+6|Myself; Yourself|0|4588|22000|4.8|Drama, Romance, Slice Of Life
+6|Blue Exorcist|12|4498|21661|4.82|
+6|Durarara!!|62|4042|19606|4.85|
+6|Time of Eve|6|3864|18819|4.87|
+6|Tegami Bachi Letter Bee|0|3593|17363|4.83|Drama, Slice Of Life, Supernatural
+6|School Days|0|3484|14390|4.13|Drama, Harem, Romance
+6|Sword Art Online|89|3458|15226|4.4|Fantasy
+6|The World God Only Knows|36|3443|16430|4.77|Comedy, Harem, Romance
+6|Demon King Daimao|0|3420|16148|4.72|Action, Comedy, Fantasy, Harem, Romance
+6|Neo Angelique Abyss|0|3258|15470|4.75|Comedy, Fantasy, Romance
+6|Happiness!|0|3069|14529|4.73|Fantasy, Harem, Romance
+6|Linebarrels of Iron|0|3026|13850|4.58|
+6|Beelzebub|0|2928|14027|4.79|Action, Comedy, Supernatural
+6|Nogizaka Haruka no Himitsu|0|2504|12133|4.85|Comedy, Romance, Slice Of Life
+6|Chi's Sweet Home - Chi's New Address|0|2467|11947|4.84|Slice Of Life
+6|Hanasakeru Seishonen|0|2461|11829|4.81|Drama, Romance
+6|Saki|38|2367|11134|4.7|Slice Of Life, Sports
+6|Slam Dunk|0|2351|11039|4.7|Comedy, Slice Of Life, Sports
+6|The Tower of DRUAGA -the Aegis of URUK-|0|2247|10678|4.75|Adventure, Comedy, Fantasy
+6|Hunter x Hunter|148|2244|10873|4.85|
+6|11eyes|0|2137|9790|4.58|Harem, Seinen
+6|Attack on Titan|60|2014|9533|4.73|Action, Adventure, Drama, Fantasy, Post-Apocalyptic, Thriller
+6|Koihime Musou|0|1979|9406|4.75|Action, Adventure
+6|Black Clover|127|1941|7446|3.84|Action, Adventure, Comedy, Fantasy, Shonen
+6|H2O: Footprints in the Sand|0|1889|9017|4.77|Drama, Romance, Slice Of Life
+6|BLASSREITER|0|1869|8661|4.63|Action, Drama, Mecha, Sci-Fi
+6|Another|12|1859|8750|4.71|Mystery
+6|Glass Mask|0|1709|8271|4.84|Romance
+6|The Tower of DRUAGA -the Sword of URUK-|0|1645|7750|4.71|Adventure, Comedy, Fantasy
+6|5 Centímetros por Segundo|0|1518|7346|4.84|Drama, Romance
+6|Dragon Crisis|0|1514|7126|4.71|Action, Fantasy, Harem
+6|Inu X Boku Secret Service|12|1473|6991|4.75|
+6|The Rising of the Shield Hero|25|1409|6647|4.72|Action, Adventure, Drama, Fantasy, Isekai, Seinen
+6|Asura Cryin'|0|1406|6652|4.73|Action, Fantasy, Harem, Mecha
+6|Usagi Drop|0|1402|6850|4.89|Comedy, Drama, Slice Of Life
+6|07 Ghost|0|1400|6688|4.78|Fantasy
+6|No. 6|0|1374|6437|4.68|Action, Adventure
+6|SKET Dance|77|1364|6513|4.77|Comedy, Shonen, Slice Of Life
+6|Otome Yokai Zakuro|0|1326|6331|4.77|Action, Historical, Romance
+6|Lilpri|0|1323|6342|4.79|Comedy, Fantasy, Music
+6|Squid Girl|26|1319|6223|4.72|Comedy, Supernatural
+6|Yokuwakaru Gendai Maho|0|1288|5906|4.59|Magical Girls
+6|A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi|0|1282|6001|4.68|Harem, Seinen
+6|Occult Academy|0|1273|5833|4.58|Adventure, Supernatural
+6|Kaasan Mom's Life|0|1201|5634|4.69|Comedy, Slice Of Life
+6|Re:ZERO -Starting Life in Another World-|63|1164|5302|4.55|Action, Adventure, Comedy, Drama, Fantasy, Isekai, Romance
+6|One Piece|1135|1142|5364|4.7|Action, Adventure, Fantasy, Shonen
+6|A Dark Rabbit has Seven Lives|0|1130|5224|4.62|
+6|Kono Aozora ni Yakusoku wo|0|1119|5143|4.6|Drama, Harem
+6|Fate/Zero|25|1097|5254|4.79|
+6|JoJo's Bizarre Adventure|158|1074|5232|4.87|
+6|Chihayafuru|74|1054|5090|4.83|
+6|My Hero Academia|86|1025|4922|4.8|Action, Fantasy, Shonen
+6|Your lie in April|22|1014|4914|4.85|Drama, Music, Romance, Shonen
+6|Fairy Musketeers|0|1001|4772|4.77|Fantasy, Magical Girls
+6|Air Master|0|973|4382|4.5|Seinen
+6|Nogizaka Haruka no Himitsu - Purezza -|0|966|4596|4.76|Comedy, Romance, Slice Of Life
+6|Hyakko|0|956|4491|4.7|Comedy
+6|Is It Wrong to Try to Pick Up Girls in a Dungeon?|26|947|4374|4.62|Adventure, Comedy, Fantasy, Harem, Romance
+6|DARLING in the FRANXX|50|946|4108|4.34|Action, Drama, Mecha, Romance, Sci-Fi
+6|Listen to Me, Girls, I’m Your Father!|12|937|4386|4.68|Harem
+6|BORUTO: NARUTO NEXT GENERATIONS|148|893|2865|3.21|Action, Adventure, Fantasy, Shonen
+6|Brave 10|12|892|4141|4.64|Historical
+6|HEROMAN|0|891|4053|4.55|Mecha
+6|Food Wars! Shokugeki no Soma|74|884|4214|4.77|Action, Comedy, Shonen
+6|Miracle Train|0|873|4014|4.6|Romance
+6|Kanamemo|0|855|3970|4.64|Comedy, Slice Of Life
+6|Ristorante Paradiso|0|846|3909|4.62|Drama, Romance, Slice Of Life
+6|Black Jack|0|842|3969|4.71|Adventure, Drama
+6|Hanamaru Kindergarten|0|826|3934|4.76|Adventure, Comedy, Slice Of Life
+6|Demon Slayer: Kimetsu no Yaiba|26|820|3996|4.87|Action, Drama, Supernatural
+6|GOBLIN SLAYER|13|818|3665|4.48|Action, Adventure, Fantasy
+6|Sound of the Sky|0|817|3872|4.74|Adventure, Drama, Music, Post-Apocalyptic, Slice Of Life
+6|Shin Koihime Musou|0|815|3882|4.76|Action
+6|ERASED|13|797|3871|4.86|Drama, Mystery, Thriller
+6|Saint Seiya The Lost Canvas|0|796|3774|4.74|Action, Adventure, Fantasy
+6|Oreimo|13|795|3512|4.42|Drama, Romance, Slice Of Life
+6|Puella Magi Madoka Magica|0|791|3813|4.82|Drama, Fantasy, Magical Girls, Thriller
+6|Bodacious Space Pirates|26|791|3687|4.66|Comedy
+6|YuruYuri|36|789|3662|4.64|Comedy, Slice Of Life
+6|No Game No Life|12|788|3705|4.7|Adventure, Comedy, Fantasy, Isekai, Sci-Fi
+6|Pretty Cure|0|777|3546|4.56|Magical Girls
+6|Akame ga Kill!|24|767|3276|4.27|Action, Adventure, Drama, Fantasy
+6|RWBY|102|761|3070|4.03|
+6|Gankutsuou|0|741|3516|4.74|
+6|Mysterious Girlfriend X|13|733|3437|4.69|Comedy, Romance
+6|That Time I Got Reincarnated as a Slime|27|731|3400|4.65|Action, Adventure, Fantasy, Isekai, Slice Of Life
+6|Sweet Blue Flowers|0|730|3415|4.68|Drama, Romance, Slice Of Life
+6|We, Without Wings - under the innocent sky|0|730|3295|4.51|Harem, Romance
+6|Kiseijuu|24|717|3407|4.75|Action, Drama, Sci-Fi, Seinen, Thriller
+6|Kamisama Dolls|0|705|3230|4.58|Action, Drama, Seinen, Supernatural
+6|NATSU NO ARASHI !|0|690|3076|4.46|Comedy, Romance, Supernatural
+6|Toradora!|25|689|3321|4.82|Comedy, Drama, Romance, Slice Of Life
+6|Ano Natsu de Matteru|0|685|3211|4.69|Drama, Romance, Slice Of Life
+6|KILL la KILL|24|682|3139|4.6|Action, Adventure, Comedy, Drama, Mecha, Post-Apocalyptic, Sci-Fi, Shonen
+6|The Ancient Magus' Bride|54|681|3259|4.79|Adventure, Drama, Fantasy, Romance, Slice Of Life, Supernatural
+6|Mushi-Uta|0|679|3213|4.73|Action, Fantasy, Supernatural
+6|Fairy Tail|153|674|2939|4.36|
+6|Yuri!!! on ICE|12|673|3250|4.83|Drama, Sports
+6|Hourou Musuko Wandering Son|0|668|3176|4.75|Drama, Romance, Slice Of Life
+6|Kuroko's Basketball|82|665|3207|4.82|Sports
+6|Battle Girls - Time Paradox|0|649|2969|4.57|Historical
+6|Fist of the North Star|0|637|2974|4.67|Post-Apocalyptic
+6|Level E|0|623|2888|4.64|
+6|RH Plus|0|623|2886|4.63|Action, Horror, Jdrama
+6|Say "I love you."|13|583|2666|4.57|Drama, Romance, Shojo, Slice Of Life
+6|Log Horizon|50|576|2619|4.55|Action, Adventure, Drama, Fantasy, Sci-Fi
+6|Working!|14|556|2656|4.78|Comedy, Slice Of Life
+6|Overlord|39|548|2533|4.62|Action, Adventure, Fantasy, Isekai, Supernatural
+6|Rio Rainbow Gate|0|541|2408|4.45|
+6|Nisemonogatari|0|540|2523|4.67|Action, Comedy, Drama, Fantasy, Harem, Mystery, Seinen, Supernatural
+6|HAIKYU!!|75|530|2625|4.95|Shonen, Slice Of Life, Sports
+6|My Little Monster|13|524|2372|4.53|Comedy, Romance, Shojo
+6|Angel Beats|13|521|2441|4.69|Action, Comedy, Drama, Fantasy, Romance
+6|KONOSUBA -God's blessing on this wonderful world!|44|519|2414|4.65|Adventure, Comedy, Fantasy, Isekai, Supernatural
+6|Golden Time|24|519|2391|4.61|Comedy, Drama, Romance, Slice Of Life
+6|Diabolik Lovers|0|517|1544|2.99|Drama, Harem, Romance, Supernatural
+6|Dr. STONE|25|516|2401|4.65|Action, Adventure, Comedy, Drama, Post-Apocalyptic, Sci-Fi, Shonen
+6|Seitokai No Ichizon - Student Councils Discretion|0|514|2442|4.75|Comedy, Harem, Slice Of Life
+6|Horizon in the Middle of Nowhere|0|505|2241|4.44|
+6|Berserk|26|505|1775|3.51|Action, Fantasy, Seinen, Supernatural
+6|The Place Promised In Our Early Days|0|503|2433|4.84|Drama, Romance, Sci-Fi
+6|Mob Psycho 100|54|501|2413|4.82|Action, Comedy, Fantasy, Supernatural
+6|In Another World With My Smartphone|24|500|1729|3.46|Action, Adventure
+6|Shin Koihime Musou - Otome Tairan|0|493|2352|4.77|Action
+6|Un-Go|0|491|2289|4.66|Mystery, Sci-Fi
+6|Yona of the Dawn|24|486|2327|4.79|Adventure, Fantasy, Romance, Shojo, Supernatural
+6|GATE|24|479|2076|4.33|Action, Adventure, Fantasy, Seinen
+6|Dragon Ball Super|131|479|2029|4.24|Action, Fantasy, Sci-Fi, Shonen
+6|Anohana: The Flower We Saw That Day|11|477|2299|4.82|Drama, Romance, Slice Of Life, Supernatural
+6|Rascal Does Not Dream of Bunny Girl Senpai|13|476|2321|4.88|Comedy, Romance, Slice Of Life, Supernatural
+6|Free! Iwatobi Swim Club|49|474|2201|4.64|Drama, Sports
+6|Voices of a Distant Star|0|471|2211|4.69|Drama, Mecha, Post-Apocalyptic, Romance, Sci-Fi
+6|ReLIFE|17|467|2266|4.85|Drama, Romance, Seinen, Slice Of Life
+6|Kids on the Slope|0|466|2276|4.88|
+6|Sailor Moon Crystal|39|457|2034|4.45|Action, Magical Girls, Romance, Shojo
+6|Familiar of Zero F|0|448|2063|4.6|Adventure, Comedy, Drama, Fantasy, Harem, Isekai, Romance
+6|Isekai Cheat Magician|12|446|952|2.13|Adventure, Fantasy, Isekai
+6|The Irregular at Magic High School|26|441|1842|4.18|Action, Fantasy, Sci-Fi, Supernatural
+6|Mashiroiro Symphony|0|439|2049|4.67|Drama, Harem, Romance
+6|THE PROMISED NEVERLAND|12|433|2124|4.91|Action, Drama, Fantasy, Mystery, Post-Apocalyptic, Sci-Fi, Shonen, Thriller
+6|Miss Kobayashi's Dragon Maid|28|428|2022|4.72|Comedy, Fantasy, Romance, Slice Of Life
+6|Hiiro no Kakera|0|426|1786|4.19|Fantasy, Romance
+6|You and Me|13|420|1950|4.64|Slice Of Life
+6|Rokka no Yuusha|24|417|1632|3.91|Action, Adventure, Fantasy, Mystery, Thriller
+6|The Prince of Tennis II|20|414|1952|4.71|Sports
+6|Saga of Tanya the Evil|27|404|1830|4.53|Action, Adventure, Fantasy, Historical
+6|Aldnoah.Zero|25|395|1584|4.01|Action, Drama, Mecha, Sci-Fi
+6|Recorder and Randsell|39|392|1691|4.31|Comedy, Slice Of Life
+6|My Love Story!!|24|388|1892|4.88|Comedy, Drama, Romance, Slice Of Life
+6|Natsume Yuujinchou 4|13|385|1891|4.91|Drama, Fantasy, Slice Of Life
+6|Dusk Maiden of Amnesia|0|378|1772|4.69|Mystery, Romance, Supernatural
+6|Charlotte|13|378|1706|4.51|Comedy, Drama, Romance
+6|Star Driver|0|373|1718|4.61|Action
+6|How Not to Summon a Demon Lord|12|371|1499|4.04|Action, Fantasy, Harem, Romance
+6|NARUTO Spin-Off: Rock Lee & His Ninja Pals|51|369|1513|4.1|
+6|Plastic Memories|13|364|1684|4.63|Drama, Romance, Sci-Fi
+6|Nyarko-san: Another Crawling Chaos|45|364|1628|4.47|Comedy, Romance
+6|Galaxy Express 999|0|363|1705|4.7|
+6|The Pet Girl of Sakurasou|0|359|1718|4.79|Comedy, Drama, Romance, Seinen
+6|Death March to the Parallel World Rhapsody|24|358|1350|3.77|Adventure, Fantasy, Harem, Isekai, Romance, Slice Of Life
+6|Demonbane|0|350|1576|4.5|Mecha
+6|Mizu no Kotoba|0|349|1637|4.69|Drama
+6|White Album|0|348|1496|4.3|Drama, Harem, Music, Romance, Seinen
+6|The Idol Master|0|342|1591|4.65|Music
+6|Space Brothers|99|340|1638|4.82|Drama, Sci-Fi, Slice Of Life
+6|From The New World|25|339|1579|4.66|Drama, Post-Apocalyptic, Sci-Fi, Supernatural, Thriller
+6|Gurren Lagann|0|326|1582|4.85|Action, Comedy, Mecha, Post-Apocalyptic, Sci-Fi
+6|Fullmetal Alchemist: Brotherhood|64|319|1572|4.93|Action, Adventure, Drama, Fantasy, Shonen, Thriller
+6|citrus|12|319|1354|4.24|Drama, Romance
+6|Black Bullet|13|319|1310|4.11|Action, Mystery, Post-Apocalyptic, Sci-Fi
+6|Gargantia on the Verdurous Planet|17|317|1450|4.57|Action, Adventure, Drama, Fantasy, Mecha, Sci-Fi
+6|Twin Star Exorcists|50|317|1229|3.88|Action, Adventure, Fantasy, Romance, Shonen, Supernatural
+6|Moritasan wa Mukuchi|0|314|1415|4.51|Comedy, Seinen
+6|The Asterisk War|24|312|1135|3.64|Action, Adventure, Fantasy, Harem, Sci-Fi
+6|Recovery of a MMO Junkie|23|308|1453|4.72|Drama, Romance, Seinen, Slice Of Life
+6|Tsuritama|12|302|1432|4.74|Comedy, Slice Of Life
+6|Web Ghosts PiPoPa|0|301|1383|4.59|Action, Adventure, Comedy, Fantasy, Supernatural
+6|My Teen Romantic Comedy SNAFU|0|300|1394|4.65|Comedy, Drama, Romance, Slice Of Life
+6|Fate/stay night [Unlimited Blade Works]|26|300|1354|4.51|Action, Drama, Fantasy, Supernatural
+6|Magi|25|298|1397|4.69|Action, Adventure, Fantasy, Shonen
+6|Classroom of the Elite|12|297|1327|4.47|Drama, Seinen, Slice Of Life, Thriller
+6|TERRAFORMARS|39|296|980|3.31|Action, Sci-Fi, Seinen, Thriller
+6|Nisekoi|33|293|1253|4.28|Comedy, Romance, Shonen, Slice Of Life
+6|Cat God|0|292|1286|4.4|Comedy, Fantasy, Seinen, Supernatural
+6|Poyopoyo|52|291|1385|4.76|Comedy, Slice Of Life
+6|MONSTER MUSUME EVERYDAY LIFE WITH MONSTER GIRLS|12|289|1268|4.39|Comedy, Fantasy, Harem
+6|Ramen Fighter Miki|0|277|1273|4.6|Action, Comedy
+6|World Trigger|73|268|1170|4.37|Action, Fantasy, Sci-Fi, Shonen, Supernatural
+6|Wise Man's Grandchild|0|267|975|3.65|Adventure, Fantasy, Isekai, Romance, Seinen
+6|Bungo Stray Dogs|63|265|1226|4.63|Action, Comedy, Drama, Historical, Seinen, Supernatural
+6|Nagi no Asukara (Nagi-Asu: A Lull in the Sea)|0|259|1222|4.72|Drama, Fantasy, Romance, Slice Of Life
+6|Kokoro Connect|13|259|1158|4.47|Drama, Romance, Slice Of Life
+6|GAMERS!|12|259|991|3.83|Comedy, Romance, Slice Of Life
+6|Monthly Girls' Nozaki-kun|12|258|1238|4.8|Comedy, Romance
+6|Captain Harlock|0|255|1175|4.61|Action, Drama
+6|Beyond the Boundary|0|255|1109|4.35|Comedy, Drama, Fantasy, Supernatural
+6|Orange|26|253|1151|4.55|Drama, Romance, Shojo, Supernatural
+6|Yonna in the Solitary Fortress|0|245|939|3.83|Adventure, Fantasy
+6|AMNESIA|0|244|854|3.5|Drama, Mystery, Romance
+6|Chance Pop Session|0|243|1140|4.69|Drama
+6|Akashic Records of Bastard Magic Instructor|24|243|997|4.1|Action, Adventure, Fantasy
+6|MEGALOBOX|13|242|1160|4.79|Drama, Sci-Fi, Sports
+6|The Melody of Oblivion|0|241|1020|4.23|Mecha, Romance, Supernatural
+6|STRIKE THE BLOOD|0|241|943|3.91|Action, Fantasy, Harem, Supernatural
+6|Canvas 2: Niji Iro no Sketch|0|235|1077|4.58|Harem
+6|A Place Further Than the Universe|13|234|1146|4.9|Adventure, Seinen, Slice Of Life
+6|King's Game|12|233|476|2.04|Drama, Mystery, Supernatural, Thriller
+6|Keijo!!!!!!!!|12|231|938|4.06|Action, Sports
+6|Polar Bear Cafe|50|228|1053|4.62|Comedy, Slice Of Life
+6|Mobile Suit GUNDAM Iron Blooded Orphans|50|228|1042|4.57|Action, Mecha, Sci-Fi
+6|Upotte!!|10|228|945|4.14|Comedy, Seinen
+6|Blast of Tempest|0|226|1013|4.48|Action, Adventure, Fantasy, Mystery, Shonen
+6|Yamada-kun and the Seven Witches|24|222|1045|4.71|Comedy, Drama, Fantasy, Harem, Romance, Slice Of Life, Supernatural
+6|Lady Death|0|222|840|3.78|Action, Supernatural
+6|WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~|0|220|972|4.42|Comedy, Shonen, Slice Of Life
+6|KIZNAIVER|12|219|913|4.17|Drama, Romance, Sci-Fi
+6|Kite Liberator|0|217|945|4.35|Action
+6|The Master of Ragnarok & Blesser of Einherjar|12|217|500|2.3|Adventure, Fantasy, Harem, Isekai
+6|Love Live!|13|216|1002|4.64|Drama, Idols, Music, Slice Of Life
+6|Tono to Issho|0|213|906|4.25|Comedy, Historical
+6|Domestic Girlfriend|12|211|929|4.4|Drama, Romance
+6|Record of Grancrest War|25|211|757|3.59|Action, Drama, Fantasy, Romance
+6|JUNI TAISEN: ZODIAC WAR|12|208|684|3.29|Action, Fantasy, Shonen, Supernatural
+6|Love Stage!!|10|207|978|4.72|Romance, Slice Of Life
+6|KAGUYA-SAMA: LOVE IS WAR|12|204|986|4.83|Comedy, Romance, Seinen
+6|Leiji Matsumoto's OZMA|6|203|826|4.07|
+6|Medaka Box|0|200|911|4.56|Romance
+6|TRINITY SEVEN|14|199|845|4.25|Action, Comedy, Fantasy, Harem, Romance, Shonen, Supernatural
+6|Fire Force|0|199|831|4.18|Action, Shonen, Supernatural
+6|Eromanga Sensei|12|197|746|3.79|Harem, Romance
+6|Himouto! Umaru-chan|12|196|890|4.54|Comedy, Slice Of Life
+6|Ace of the Diamond|176|195|902|4.63|Shonen, Slice Of Life, Sports
+6|School-Live!|12|195|882|4.52|Comedy, Drama, Mystery, Post-Apocalyptic, Slice Of Life, Thriller
+6|BTOOOM!|0|191|839|4.39|Action, Drama, Mystery, Sci-Fi, Seinen
+6|High School Prodigies Have It Easy Even In Another World|12|189|597|3.16|Action, Adventure, Fantasy, Isekai
+6|Digimon Adventure tri.|26|188|812|4.32|Adventure, Drama, Sci-Fi
+6|Kimi ni Todoke - From Me To You|0|187|863|4.61|Shojo
+6|Tsukigakirei|13|186|896|4.82|Drama, Romance, Slice Of Life
+6|Masamune-kun's Revenge|13|186|671|3.61|Comedy, Drama, Romance
+6|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?|12|186|529|2.84|
+6|Kotoura-san|12|182|834|4.58|Comedy, Drama, Romance, Supernatural
+6|Sword Art Online Alternative: Gun Gale Online|13|182|678|3.73|Action, Adventure, Drama, Isekai, Sci-Fi
+6|ZOMBIE LAND SAGA|12|181|815|4.5|Comedy, Drama, Idols, Music, Supernatural
+6|I Can't Understand What My Husband Is Saying|26|180|837|4.65|Comedy, Romance, Seinen, Slice Of Life
+6|My Mental Choices are Completely Interfering with my School Romantic Comedy|10|179|782|4.37|Comedy, Harem, Romance, Slice Of Life
+6|Total Eclipse|25|179|658|3.68|Action, Adventure, Mecha
+6|ASSASSINS PRIDE|12|179|568|3.17|Action, Fantasy
+6|Os Cavaleiros do Zodíaco - Ômega|97|177|716|4.05|
+6|Hundred|12|177|540|3.05|Action, Comedy, Fantasy, Harem, Romance, Sci-Fi
+6|My First Girlfriend is a Gal|10|175|598|3.42|Comedy, Harem, Romance, Slice Of Life
+6|Laid-Back Camp|12|174|843|4.84|Adventure, Comedy, Slice Of Life
+6|NEW GAME!|24|174|783|4.5|Comedy, Slice Of Life
+6|Restaurant to Another World|12|174|781|4.49|Drama, Fantasy, Isekai, Seinen, Slice Of Life
+6|Cells at Work!|14|172|819|4.76|Comedy
+6|Knight’s & Magic|13|172|682|3.97|Action, Adventure, Isekai, Mecha, Sci-Fi
+6|Cowboy Bebop|0|171|843|4.93|Action, Drama, Sci-Fi
+6|The World is Still Beautiful|12|171|795|4.65|Adventure, Fantasy, Romance, Shojo
+6|Wolf Girl and Black Prince|12|170|671|3.95|Comedy, Romance, Shojo, Slice Of Life
+6|Run with the Wind|23|168|831|4.95|Drama, Shonen, Slice Of Life, Sports
+6|Angels of Death|16|167|650|3.89|Mystery
+6|Mushishi|22|166|810|4.88|Adventure, Fantasy, Seinen, Slice Of Life, Supernatural
+6|Uta no Prince Sama|39|166|734|4.42|Drama, Harem, Music, Romance
+6|Problem Children are Coming from Another World, aren't they?|10|165|759|4.6|Action, Comedy, Fantasy, Isekai
+6|Alderamin on the Sky|13|165|749|4.54|Action, Adventure, Drama, Fantasy
+6|Arpeggio of Blue Steel|0|165|733|4.44|Action, Adventure, Drama, Sci-Fi, Seinen
+6|Blue Spring Ride|0|164|766|4.67|Comedy, Drama, Romance
+6|91 Days|14|163|770|4.72|Action, Drama, Historical, Seinen
+6|RADIANT|42|162|610|3.77|Action, Adventure, Fantasy, Shonen
+6|Magical Warfare|0|162|441|2.72|Action, Fantasy
+6|Fruits Basket|0|161|790|4.91|Comedy, Drama, Shojo, Slice Of Life, Supernatural
+6|Phantom Thief Reinya|0|161|715|4.44|Comedy
+6|The Fruit of Grisaia|24|161|710|4.41|Drama, Romance, Thriller
+6|GOD EATER|13|161|644|4.0|Action, Post-Apocalyptic, Sci-Fi
+6|Welcome to Demon School! Iruma-kun|23|158|757|4.79|Comedy, Supernatural
+6|Kamigami no Asobi|12|158|689|4.36|Harem, Romance, Supernatural
+6|The Quintessential Quintuplets|12|157|716|4.56|Comedy, Harem, Romance, Slice Of Life
+6|GIRLS und PANZER|0|157|707|4.5|Action, Slice Of Life, Sports
+6|Maoyu|12|157|683|4.35|Adventure, Fantasy, Romance
+6|WorldEnd: What do you do at the end of the world? Are you busy? Will you save us|12|156|724|4.64|Drama, Fantasy, Romance, Sci-Fi, Seinen
+6|GLASSLIP|13|155|439|2.83|Drama, Romance, Slice Of Life
+6|Rozen Maiden Zurückspulen|0|155|257|1.66|Drama, Fantasy, Supernatural
+6|Witch Craft Works|12|153|662|4.33|Action, Fantasy, Seinen, Supernatural
+6|Flowers of Evil|13|151|640|4.24|Drama, Romance, Shonen, Thriller
+6|given|11|149|723|4.85|Drama, Music, Romance
+6|KARAKAI JOZU NO TAKAGI-SAN|12|149|718|4.82|Comedy, Romance, Slice Of Life
+6|Interviews with Monster Girls|26|149|695|4.66|Comedy, Seinen, Slice Of Life, Supernatural
+6|Sunday Without God|12|148|657|4.44|Adventure, Drama, Fantasy, Mystery, Post-Apocalyptic, Supernatural
+6|The Lost Village|12|148|458|3.09|Comedy, Mystery, Supernatural, Thriller
+6|Taboo Tattoo|12|148|331|2.24|Action, Fantasy, Sci-Fi
+6|March comes in like a lion|45|146|700|4.79|Drama, Romance
+6|HINAMATSURI|12|146|700|4.79|Comedy, Drama, Slice Of Life, Supernatural
+6|Haven’t You Heard? I’m Sakamoto|13|145|663|4.57|Comedy, Seinen, Slice Of Life
+6|The Ambition of Oda Nobuna|12|145|661|4.56|Action, Fantasy, Historical
+6|BLEND-S|12|144|652|4.53|Comedy, Slice Of Life
+6|Didn't I say to make my abilities average in the next life|12|144|548|3.81|Comedy, Fantasy, Isekai
+6|Tonari no Seki-kun: The Master of Killing Time|21|143|672|4.7|Comedy, Romance, Seinen, Slice Of Life
+6|Magical Girl Raising Project|12|143|515|3.6|Action, Drama, Fantasy, Seinen
+6|MEKAKUCITY ACTORS|12|142|578|4.07|Action, Music, Romance, Sci-Fi
+6|ORESUKI Are you the only one who loves me?|13|141|660|4.68|Romance
+6|Sound! Euphonium|27|141|655|4.65|Drama, Music, Romance, Slice Of Life
+6|Ushio and Tora|39|141|644|4.57|Action, Adventure, Fantasy, Shonen, Supernatural
+6|Flying Witch|12|139|652|4.69|Comedy, Fantasy, Shonen, Slice Of Life, Supernatural
+6|Campione!|13|139|607|4.37|Fantasy, Harem, Romance
+6|Brynhildr in the Darkness|13|139|544|3.91|Action, Drama, Fantasy, Mystery, Romance
+6|Blade and Soul|13|138|417|3.02|Action, Adventure, Fantasy
+6|Silver Spoon|22|136|668|4.91|Comedy, Romance, Shonen, Slice Of Life
+6|You and Me 2|13|136|643|4.73|Slice Of Life
+6|Kino no Tabi -the Beautiful World- the Animated Series|12|136|617|4.54|Action, Adventure, Drama, Fantasy, Mystery, Seinen, Slice Of Life
+6|Bakemonogatari|0|135|599|4.44|Action, Comedy, Drama, Harem, Mystery, Seinen, Supernatural
+6|DRAMAtical Murder|12|135|538|3.99|Action, Drama, Romance, Sci-Fi
+6|Ace Attorney|47|134|506|3.78|Comedy, Drama, Mystery
+6|Yowamushi Pedal|65|133|637|4.79|Action, Drama, Shonen, Sports
+6|Biyou Shounen Celebrity|0|133|634|4.77|Comedy, Jdrama
+6|If It's for My Daughter, I'd Even Defeat a Demon Lord|12|133|536|4.03|Fantasy, Slice Of Life
+6|Tsuredure Children|12|132|609|4.61|Comedy, Drama, Romance, Shonen, Slice Of Life
+6|Fuuka|12|132|449|3.4|Drama, Music, Romance, Shonen
+6|Phi Brain|0|131|581|4.44|
+6|One-Punch Man|25|127|536|4.22|Action, Comedy, Shonen
+6|World Break: Aria of Curse for a Holy Swordsman|12|125|438|3.5|Action, Fantasy, Harem, Romance, Seinen
+6|Non Non Biyori|24|124|592|4.77|Comedy, Seinen, Slice Of Life
+6|Kiss Him, Not Me|12|123|551|4.48|Comedy, Harem, Romance, Shojo
+6|A Sister's All You Need.|12|122|526|4.31|Comedy, Drama, Harem, Romance, Slice Of Life
+6|PUNCH LINE|12|122|520|4.26|Action, Comedy, Sci-Fi, Supernatural
+6|Sengoku Collection (Parallel World Samurai)|26|122|514|4.21|Comedy, Fantasy, Historical
+6|SHELTER|0|121|585|4.83|Adventure, Drama, Music, Post-Apocalyptic, Sci-Fi
+6|sweetness & lightning|12|121|569|4.7|Comedy, Drama, Seinen, Slice Of Life
+6|Peeping Life|0|121|480|3.97|Comedy, Slice Of Life
+6|Asobi Asobase - workshop of fun -|12|120|577|4.81|Comedy, Slice Of Life
+6|Myriad Colors Phantom World|13|120|466|3.88|Fantasy, Slice Of Life
+6|Ascendance of a Bookworm|16|119|561|4.71|Adventure, Fantasy, Isekai
+6|Saekano -How to Raise a Boring Girlfriend-|13|119|513|4.31|Comedy, Drama, Harem, Romance, Slice Of Life
+6|Tanaka-kun is Always Listless|12|118|558|4.73|Comedy, Shonen, Slice Of Life
+6|How to Keep a Mummy|12|117|558|4.77|Comedy, Slice Of Life, Supernatural
+6|Love Tyrant|12|117|449|3.84|Comedy, Fantasy, Harem, Romance, Supernatural
+6|Drifters|0|115|530|4.61|Action, Drama, Fantasy, Historical, Isekai
+6|SHIROBAKO|24|111|538|4.85|
+6|Digimon Xros Wars - The Young Hunters Who Leapt Through Time|0|111|515|4.64|
+6|Izetta: The Last Witch|12|111|447|4.03|Action, Drama, Fantasy, Historical, Romance, Supernatural
+6|La storia della Arcana Famiglia|0|110|364|3.31|
+6|My Roommate is a Cat|12|109|522|4.79|Comedy, Drama, Slice Of Life
+6|Magical Play|0|109|473|4.34|Magical Girls
+6|White Album 2|13|109|469|4.3|Drama, Harem, Idols, Music, Romance, Slice Of Life
+6|GA Geijutsuka Art Design Class|0|108|496|4.59|Comedy, Seinen, Slice Of Life
+6|Beautiful Bones -Sakurako's Investigation-|12|108|492|4.56|Drama, Mystery, Thriller
+6|Pop Team Epic|16|108|423|3.92|Action, Comedy
+6|Love, Chunibyo & Other Delusions|0|107|517|4.83|Comedy, Drama, Romance, Slice Of Life
+6|AHO-GIRL|12|107|454|4.24|Comedy, Slice Of Life
+6|Spiritpact|22|107|401|3.75|Action, Adventure, Drama, Seinen, Supernatural
+6|Showa Genroku Rakugo Shinju|25|106|520|4.91|Drama, Historical, Romance
+6|HENNEKO - The Hentai Prince and the Stony Cat -|0|106|486|4.58|Drama, Romance, Supernatural
+6|Noblesse: Awakening|0|105|486|4.63|Action, Supernatural, Thriller
+6|Cute High Earth Defense Club LOVE!|37|105|457|4.35|Comedy, Slice Of Life
+6|Twin Angel: Twinkle Paradise|0|105|415|3.95|Magical Girls
+6|Samurai Flamenco|22|105|400|3.81|Action, Comedy, Sci-Fi, Supernatural
+6|KADO: The Right Answer|14|104|400|3.85|Drama, Sci-Fi, Seinen
+6|Hakkenden: Eight Dogs of the East|26|103|478|4.64|Action, Fantasy, Shojo, Supernatural
+6|Sherlock Hound|0|103|470|4.56|Action, Adventure, Mystery
+6|Chaika - The Coffin Princess-|22|103|442|4.29|Action, Adventure, Fantasy, Supernatural
+6|Ixion Saga DT|25|103|388|3.77|Action, Fantasy
+6|A Certain Magical Index|26|103|366|3.55|Action, Fantasy, Sci-Fi
+6|Rozen Maiden|0|102|504|4.94|Drama, Fantasy, Supernatural
+6|Kakuriyo -Bed & Breakfast for Spirits-|0|102|495|4.85|Drama, Romance, Supernatural
+6|Infinite Stratos|0|102|359|3.52|Action, Harem, Mecha, Romance, Sci-Fi
+6|BIG ORDER|10|102|248|2.43|Action, Drama, Mystery, Post-Apocalyptic, Thriller
+6|NANBAKA|26|101|448|4.44|Comedy, Slice Of Life
+6|Gabriel DropOut|12|101|436|4.32|Comedy, Shonen, Slice Of Life, Supernatural
+6|Natsuyuki Rendezvous|0|101|404|4.0|Romance, Supernatural
+6|Rurouni Kenshin|0|100|480|4.8|Action, Adventure, Historical, Romance, Shonen
+6|Anti-Magic Academy: The 35th Test Platoon|12|100|352|3.52|Action, Drama, Fantasy
+6|Gatchaman Crowds|13|99|411|4.15|Action, Sci-Fi
+6|Schwarzes Marken|24|99|394|3.98|Action, Drama, Historical, Mecha, Post-Apocalyptic, Sci-Fi
+6|Bladedance of Elementalers|12|99|359|3.63|Action, Comedy, Fantasy, Harem, Romance
+6|Saki Episode of Side A|16|98|439|4.48|Slice Of Life, Sports
+6|Valerian and Laureline|0|98|437|4.46|Adventure, Drama, Romance, Sci-Fi
+6|Fox Spirit Matchmaker|24|98|370|3.78|Comedy, Fantasy, Romance
+6|Hand Shakers|12|98|272|2.78|Action, Sci-Fi
+6|Case Closed|0|97|477|4.92|Adventure, Drama, Mystery, Thriller
+6|Oreshura|0|97|412|4.25|Comedy, Harem, Romance, Slice Of Life
+6|Conception|12|97|225|2.32|Action, Adventure, Drama, Fantasy, Romance, Sci-Fi
+6|Thunderbolt Fantasy|0|95|445|4.68|Action, Drama, Fantasy, Historical
+6|Yamishibai|91|95|416|4.38|Mystery, Supernatural, Thriller
+6|gen:LOCK|8|95|380|4.0|Action, Mecha, Sci-Fi
+6|Folktales from Japan|300|94|448|4.77|Historical
+6|DAKAICHI -I'm being harassed by the sexiest man of the year-|13|94|404|4.3|Romance
+6|Bloodivores|12|94|227|2.41|Action, Supernatural
+6|Humanity Has Declined|12|93|412|4.43|Comedy
+6|Hamatora|24|93|388|4.17|Action, Comedy, Drama, Mystery, Supernatural
+6|The Silver Guardian|18|93|270|2.9|Action, Fantasy, Isekai, Sci-Fi, Supernatural
+6|Go Lion|0|92|428|4.65|Action, Adventure, Mecha, Sci-Fi
+6|Tari Tari|0|91|433|4.76|Drama, Music, Slice Of Life
+6|Dog & Scissors|12|91|358|3.93|Comedy, Supernatural
+6|GTO - The Animation|43|90|442|4.91|Comedy, Drama, Shonen, Slice Of Life
+6|Dog Days|26|90|387|4.3|Action, Comedy
+6|Death Note (Drama)|11|90|379|4.21|
+6|Ulysses: Jeanne d'Arc and the Alchemist Knight|12|90|190|2.11|Action, Fantasy, Historical
+6|Mr. Osomatsu|58|89|419|4.71|Comedy, Slice Of Life
+6|One Week Friends|0|89|416|4.67|Drama, Romance, Slice Of Life
+6|Love, Chunibyo & Other Delusions - Heart Throb -|0|89|404|4.54|Comedy, Drama, Romance, Slice Of Life
+6|When Supernatural Battles Became Commonplace|12|89|370|4.16|Action, Comedy, Harem, Romance, Slice Of Life, Supernatural
+6|PERSONA5 the Animation|28|89|351|3.94|Action, Mystery, Supernatural, Thriller
+6|FLIP FLAPPERS|13|88|417|4.74|Adventure, Comedy, Fantasy, Magical Girls
+6|Keep Your Hands Off Eizouken!|11|88|413|4.69|Adventure, Comedy, Drama, Slice Of Life
+6|We Never Learn: BOKUBEN|26|87|397|4.56|Comedy, Harem, Romance, Shonen, Slice Of Life
+6|Interlude|0|87|362|4.16|Mystery
+6|Love is Like a Cocktail|13|87|358|4.11|Comedy, Romance, Seinen, Slice Of Life
+6|Fate/kaleid liner PRISMA ILLYA|42|87|356|4.09|Action, Fantasy, Magical Girls, Supernatural
+6|Majestic Prince|0|87|354|4.07|Action, Mecha, Sci-Fi
+6|Hitori No Shita - The Outcast|37|87|340|3.91|Action, Supernatural
+6|School Babysitters|13|86|413|4.8|Comedy, Drama, Shojo, Slice Of Life
+6|Aoharu x Machinegun|0|86|383|4.45|Action, Comedy, Drama
+6|Orenchi no Furo Jijo|13|86|374|4.35|Comedy, Fantasy, Romance, Shojo, Slice Of Life
+6|The Kawai Complex Guide to Manors and Hostel Behavior|0|85|390|4.59|Comedy, Romance, Seinen, Slice Of Life
+6|In/Spectre|11|85|327|3.85|Action, Drama, Fantasy, Mystery, Romance, Supernatural, Thriller
+6|BLACKFOX|1|85|322|3.79|Action, Sci-Fi
+6|Naked Wolves|0|85|221|2.6|Comedy, Sports
+6|Barakamon|0|84|407|4.85|Comedy, Seinen, Slice Of Life
+6|Nobunaga Concerto|10|84|402|4.79|Adventure, Comedy, Historical, Romance, Shonen
+6|PandoraHearts|0|84|378|4.5|Action, Adventure, Fantasy, Mystery, Shonen, Thriller
+6|Blood Blockade Battlefront|24|83|383|4.61|Action, Drama, Sci-Fi, Supernatural
+6|Is the Order a Rabbit?|24|82|388|4.73|Comedy, Slice Of Life
+6|Golden Kamuy|24|82|384|4.68|Action, Adventure, Drama, Historical, Mystery, Seinen, Slice Of Life
+6|Os Cavaleiros do Zodíaco - Saintia Sho|10|82|310|3.78|Action, Fantasy, Sci-Fi, Shonen
+6|Servant x Service|13|81|381|4.7|Comedy, Romance, Seinen, Slice Of Life
+6|Hakata Tonkotsu Ramens|12|81|379|4.68|Action, Drama, Mystery
+6|Steins;Gate 0|0|81|375|4.63|Drama, Mystery, Post-Apocalyptic, Sci-Fi, Thriller
+6|Kyousougiga|13|80|382|4.78|Action, Fantasy, Sci-Fi, Slice Of Life, Supernatural
+6|Magical Sempai|12|80|340|4.25|Comedy
+6|Actually, I Am|13|80|336|4.2|Comedy, Romance, Supernatural
+6|AKB0048|26|78|365|4.68|Action, Adventure, Drama, Fantasy, Idols, Music, Sci-Fi
+6|Senyu.|26|78|339|4.35|Action, Comedy, Fantasy, Shonen
+6|Jingai-san no Yome|12|78|268|3.44|Comedy, Romance, Slice Of Life
+6|Cardcaptor Sakura|0|77|367|4.77|Action, Adventure, Comedy, Fantasy, Shojo
+6|Sarazanmai|11|77|342|4.44|Drama, Mystery, Supernatural, Thriller
+6|Outbreak Company|0|77|340|4.42|Action, Adventure, Comedy, Fantasy, Harem, Isekai, Romance
+6|Little Busters!|0|77|338|4.39|Comedy, Drama, Slice Of Life
+6|GRANBLUE FANTASY: The Animation|26|77|296|3.84|Adventure, Fantasy
+6|She and Her Cat -Everything Flows-|4|76|355|4.67|Drama, Fantasy, Seinen, Slice Of Life
+6|Sakura Trick|0|76|340|4.47|Comedy, Romance, Slice Of Life
+6|The Comic Artist and His Assistants|12|76|329|4.33|Comedy, Harem, Seinen, Slice Of Life
+6|Elegant Yokai Apartment Life|26|76|314|4.13|Drama, Fantasy, Slice Of Life, Supernatural
+6|SPACE PATROL LULUCO|14|75|345|4.6|Action, Comedy, Fantasy, Romance, Sci-Fi
+6|Nobunaga the Fool|0|75|249|3.32|Action, Mecha, Sci-Fi
+6|Broken Blade|0|74|340|4.59|Action, Adventure, Drama, Fantasy, Mecha, Sci-Fi, Shonen
+6|The Royal Tutor|13|74|337|4.55|Comedy, Historical, Shonen, Slice Of Life
+6|The Perfect Insider|11|74|287|3.88|Drama, Mystery, Sci-Fi, Seinen, Thriller
+6|The Helpful Fox Senko-san|0|73|352|4.82|Comedy, Slice Of Life, Supernatural
+6|Mischievous Kiss - Love in Tokyo|16|73|329|4.51|
+6|YUKI YUNA IS A HERO|12|73|320|4.38|Action, Adventure, Drama, Fantasy, Supernatural
+6|ISLAND|12|73|253|3.47|Drama, Sci-Fi, Slice Of Life
+6|A Centaur's Life|12|73|242|3.32|Comedy, Fantasy, Romance, Seinen, Slice Of Life
+6|THE UNLIMITED Hyobu Kyosuke|12|72|341|4.74|Action, Adventure, Sci-Fi, Supernatural
+6|Engaged to the Unidentified|0|72|315|4.38|Comedy, Romance, Slice Of Life
+6|Why the hell are you here, Teacher!?|12|72|285|3.96|Comedy, Harem, Romance
+6|Vividred Operation|0|72|229|3.18|Action, Mecha, Sci-Fi
+6|Hinomaru Sumo|24|71|335|4.72|Action, Shonen, Sports
+6|Legend of the Galactic Heroes: Die Neue These|24|71|314|4.42|Action, Drama, Sci-Fi
+6|KanColle|12|71|284|4.0|Action, Sci-Fi
+6|World Conquest Zvezda Plot|12|70|295|4.21|Action, Adventure, Comedy, Fantasy, Sci-Fi, Shonen
+6|DEVIL SURVIVOR 2 THE ANIMATION|0|70|267|3.81|Action, Supernatural
+6|Mushibugyo|26|69|311|4.51|Action, Adventure, Fantasy, Historical
+6|Kemono Friends|24|69|300|4.35|Adventure, Comedy, Fantasy, Post-Apocalyptic
+6|ARGEVOLLEN|24|69|224|3.25|Action, Mecha, Sci-Fi
+6|Dies irae|18|69|191|2.77|Action, Fantasy, Historical
+6|Hozuki's Coolheadedness|13|68|320|4.71|Adventure, Comedy, Fantasy, Seinen, Slice Of Life, Supernatural
+6|Kaiji|52|68|318|4.68|
+6|BONJOUR Sweet Love Patisserie|24|68|231|3.4|Harem, Romance, Slice Of Life
+6|JOKER GAME|24|67|292|4.36|Action, Drama, Historical, Mystery, Seinen, Thriller
+6|Netsuzou Trap -NTR-|12|67|204|3.04|Drama, Romance, Shojo, Slice Of Life
+6|EVIL OR LIVE|13|67|191|2.85|Drama, Seinen, Thriller
+6|Cerberus|13|67|156|2.33|Action, Adventure, Fantasy
+6|Bananya|26|66|301|4.56|Comedy, Slice Of Life
+6|Sin The Movie|0|66|257|3.89|Action, Supernatural
+6|Utawarerumono The False Faces|25|66|225|3.41|Adventure, Fantasy, Sci-Fi, Supernatural
+6|Cardcaptor Sakura: Clear Card|23|65|299|4.6|Adventure, Comedy, Magical Girls, Shojo
+6|DENKI-GAI|12|65|294|4.52|Comedy, Slice Of Life
+6|Please tell me! Galko-chan|12|65|285|4.38|Comedy, Slice Of Life
+6|Nanana's Buried Treasure|11|65|280|4.31|Comedy, Supernatural
+6|OneRoom|25|65|178|2.74|Drama, Romance, Slice Of Life
+6|Triage X|10|64|207|3.23|Action, Shonen
+6|Sabagebu!|12|63|295|4.68|Action, Comedy, Slice Of Life, Sports
+6|ACCA: 13-Territory Inspection Dept.|13|63|292|4.63|Adventure, Drama, Mystery, Sci-Fi, Thriller
+6|Amagi Brilliant Park|0|63|288|4.57|Comedy, Slice Of Life
+6|AOKANA: Four Rhythm Across the Blue|12|63|241|3.83|Comedy, Drama, Sci-Fi, Sports
+6|Persona4 the Golden ANIMATION|12|63|236|3.75|Action, Drama, Mystery, Slice Of Life, Supernatural, Thriller
+6|Chain Chronicle - The Light of Haecceitas -|24|63|213|3.38|Action, Adventure, Fantasy
+6|Skull-face Bookseller Honda-san|12|62|286|4.61|Comedy, Shojo, Slice Of Life
+6|Nobunagun|13|62|282|4.55|Action, Sci-Fi, Shonen
+6|Occultic;Nine|12|62|228|3.68|Sci-Fi, Supernatural, Thriller
+6|Super Sonico - The Animation|0|62|208|3.35|Drama, Music, Slice Of Life
+6|Sakura Quest|0|61|281|4.61|
+6|Umamusume: Pretty Derby|13|61|275|4.51|Drama, Idols, Slice Of Life, Sports
+6|Magical Girl Ore|12|61|265|4.34|Comedy, Fantasy, Romance
+6|HANEBADO!|13|61|237|3.89|Drama, Seinen, Sports
+6|Junji Ito Collection|14|61|222|3.64|Comedy, Drama, Fantasy, Mystery, Supernatural, Thriller
+6|Himegoto|13|61|219|3.59|Comedy, Harem, Slice Of Life
+6|Rail Wars!|0|61|214|3.51|Action, Harem
+6|Boogiepop and Others|18|60|253|4.22|Drama, Supernatural, Thriller
+6|Os Cavaleiros do Zodíaco - Alma de Ouro|13|60|251|4.18|Action, Adventure, Drama, Fantasy, Shonen
+6|To the Abandoned Sacred Beasts|12|60|207|3.45|Action, Drama, Fantasy, Shonen, Supernatural, Thriller
+6|The Morose Mononokean|26|59|260|4.41|Comedy, Drama, Slice Of Life, Supernatural
+6|Qualidea Code|12|59|206|3.49|Action, Supernatural
+6|makuranodanshi|12|59|194|3.29|
+6|Clockwork Planet|12|59|186|3.15|Fantasy, Sci-Fi
+6|SENGOKU NIGHT BLOOD|12|59|171|2.9|Action, Fantasy, Harem, Historical, Isekai, Romance, Shojo, Supernatural, Thriller
+6|Somali and the Forest Spirit|12|58|278|4.79|Adventure, Drama, Fantasy
+6|The Eccentric Family|0|58|271|4.67|Comedy, Drama, Fantasy, Slice Of Life, Supernatural
+6|Gugure! Kokkuri-san|12|58|264|4.55|Comedy, Slice Of Life, Supernatural
+6|Yu-Gi-Oh! VRAINS|120|58|242|4.17|Action, Sci-Fi, Shonen
+6|Phantasy Star Online 2 The Animation|12|58|198|3.41|Action, Adventure, Fantasy, Sci-Fi
+6|ISUCA|10|58|171|2.95|Action, Comedy, Romance, Supernatural
+6|HaNaYaMaTa|12|57|261|4.58|Comedy, Seinen, Slice Of Life
+6|MYSTERIA Friends|10|57|203|3.56|Fantasy, Slice Of Life
+6|BBK/BRNK|24|57|178|3.12|Action, Drama, Mecha, Sci-Fi
+6|Happy Boys|0|56|275|4.91|Comedy, Jdrama, Romance
+6|Monogatari S2|1|56|274|4.89|Action, Comedy, Drama, Fantasy, Harem, Supernatural, Thriller
+6|DAYS|24|56|242|4.32|Drama, Sports
+6|Rewrite|24|56|197|3.52|Action, Drama, Fantasy, Romance
+6|Hitoribocchi no Marumaruseikatsu|12|55|262|4.76|Comedy, Shonen, Slice Of Life
+6|Wakakozake|12|55|261|4.75|Comedy, Seinen, Slice Of Life
+6|Love Lab|13|55|252|4.58|Comedy, Romance
+6|Yurumates3Dei|26|55|239|4.35|Comedy, Slice Of Life
+6|GJ CLUB|0|55|238|4.33|Comedy, Harem, Slice Of Life
+6|Classroom Crisis|13|55|236|4.29|Drama, Romance, Sci-Fi
+6|Kenka Bancho Otome -Girl Beats Boys-|12|55|207|3.76|Action, Drama, Romance, Shojo
+6|Wizard Barristers|0|55|182|3.31|Action, Fantasy, Supernatural, Thriller
+6|The Price of Smiles|12|55|166|3.02|Action, Drama, Fantasy, Mecha, Sci-Fi
+6|KONOHANA KITAN|12|54|246|4.56|Comedy, Fantasy, Seinen, Slice Of Life
+6|Gingitsune: Messenger Fox of the Gods|12|54|243|4.5|Slice Of Life, Supernatural
+6|Inferno Cop|25|54|237|4.39|Action, Comedy, Sci-Fi, Supernatural
+6|The Highschool Life of a Fudanshi|12|54|200|3.7|Comedy, Shojo, Slice Of Life
+6|Lance N' Masques|12|54|158|2.93|Action, Fantasy
+6|Alice & Zoroku|13|53|234|4.42|Action, Adventure, Drama, Slice Of Life, Supernatural
+6|To Be Heroine|8|53|231|4.36|Action, Comedy, Supernatural
+6|Captain Earth|25|53|181|3.42|Action, Mecha, Romance, Sci-Fi
+6|Walkure Romanze|12|53|178|3.36|Action, Drama, Harem, Romance, Sports
+6|Poco's Udon World|12|52|249|4.79|Comedy, Drama, Fantasy, Slice Of Life
+6|ISEKAI QUARTET|0|52|239|4.6|Comedy, Fantasy, Isekai
+6|Ao-chan Can't Study!|12|52|237|4.56|Comedy, Romance
+6|SSSS.GRIDMAN|0|52|218|4.19|Action, Drama, Mecha, Sci-Fi
+6|The Ryuo's Work is Never Done!|12|52|195|3.75|
+6|Diabolik Lovers II MORE,BLOOD|12|52|184|3.54|Drama, Harem, Romance, Supernatural
+6|Arata the Legend|0|52|176|3.38|Action, Adventure, Fantasy, Isekai, Romance
+6|Comet Lucifer|12|52|149|2.87|Fantasy
+6|Active Raid|24|52|141|2.71|Action, Mecha, Sci-Fi
+6|Dai-Shogun - Great Revolution|12|52|120|2.31|Action, Harem, Historical, Mecha, Sci-Fi
+6|WWW.Working!!|13|51|204|4.0|Comedy, Drama, Romance, Slice Of Life
+6|Are You Lost?|12|51|199|3.9|Comedy
+6|Kanojo ga Flag wo Oraretara (If Her Flag Breaks)|13|51|175|3.43|Comedy, Harem, Romance, Slice Of Life
+6|Gakuen Handsome|12|50|225|4.5|Comedy, Drama, Romance, Slice Of Life
+6|Toriko|146|50|221|4.42|Adventure, Fantasy, Shonen
+6|The Pilot's Love Song|13|50|214|4.28|Action, Adventure, Drama, Romance
+6|Makai Ouji: Devils and Realist|12|50|204|4.08|Drama, Supernatural
+6|As Miss Beelzebub Likes it.|12|50|198|3.96|Comedy, Fantasy, Romance, Slice Of Life
+6|Ms. Koizumi-san Loves Ramen Noodles|12|50|167|3.34|Comedy, Slice Of Life
+6|Kamisama Hajimemashita|25|49|240|4.9|Comedy, Romance, Supernatural
+6|Ghost Stories|0|49|233|4.76|Comedy, Supernatural
+6|Gourmet Girl Graffiti|0|49|221|4.51|Comedy, Seinen, Slice Of Life
+6|INVADERS of the ROKUJYOMA!?|12|49|217|4.43|Comedy, Harem, Romance, Supernatural
+6|Kabaneri of the Iron Fortress|14|49|203|4.14|Action, Post-Apocalyptic, Supernatural, Thriller
+6|Tsugumomo|12|49|201|4.1|Comedy, Harem, Romance, Seinen, Supernatural
+6|Break Ups|0|49|200|4.08|Drama, Romance, Slice Of Life
+6|Japanese Anime Classic Collection|0|49|194|3.96|Drama
+6|Galaxy High School|0|49|158|3.22|Sci-Fi
+6|Mononoke|0|48|232|4.83|Action, Mystery, Supernatural, Thriller
+6|Tsurune|14|48|226|4.71|Drama, Slice Of Life, Sports
+6|Ms. Vampire who lives in my neighborhood.|12|48|212|4.42|Comedy, Slice Of Life, Supernatural
+6|Science Fell in Love, So I Tried to Prove it|13|48|208|4.33|Comedy, Romance, Slice Of Life
+6|Anime Crimes Division|6|48|201|4.19|Action, Comedy, Drama, Sci-Fi
+6|Midnight occult civil servants|15|48|186|3.88|Supernatural
+6|Unlimited Fafnir|12|48|161|3.35|Action, Fantasy, Harem, Seinen, Supernatural
+6|Basilisk : The Ouka Ninja Scrolls|24|48|104|2.17|Action, Drama, Fantasy, Historical, Romance, Seinen
+6|Ping Pong the Animation|0|47|233|4.96|Seinen, Sports
+6|Planet With|12|47|215|4.57|Action, Comedy, Drama, Mecha, Sci-Fi, Seinen
+6|Wake Up, Girls!|35|47|200|4.26|Drama, Idols, Music, Slice Of Life
+6|Isekai Izakaya: Japanese Food From Another World|24|47|198|4.21|Fantasy, Isekai, Slice Of Life
+6|High School Fleet|12|47|198|4.21|Action, Sci-Fi
+6|Holmes of Kyoto|12|47|194|4.13|Drama, Mystery, Romance, Slice Of Life
+6|Lord Marksman and Vanadis|0|47|192|4.09|Action, Adventure, Fantasy, Harem, Historical, Romance
+6|RIN-NE|75|46|202|4.39|Comedy, Fantasy, Romance, Slice Of Life, Supernatural
+6|Ahiru no Sora|24|46|199|4.33|Shonen, Sports
+6|The Severing Crime Edge|0|46|195|4.24|Action, Romance, Seinen
+6|Seton Academy: Join the Pack!|11|46|193|4.2|Comedy
+6|Magical Girl Spec-Ops Asuka|12|46|185|4.02|Action, Fantasy
+6|Lovely Muuuuuuuco!|25|46|185|4.02|Comedy, Slice Of Life
+6|UzaMaid!|13|46|176|3.83|Comedy, Seinen, Slice Of Life
+6|Convenience Store Boy Friends|12|46|163|3.54|Romance, Slice Of Life
+6|Tokyo Ghoul: re|0|46|142|3.09|
+6|Love Live! Sunshine!!|26|45|206|4.58|Comedy, Drama, Idols, Music, Slice Of Life
+6|GARO -VANISHING LINE-|24|45|202|4.49|Action, Fantasy, Sci-Fi, Supernatural
+6|Yu-Gi-Oh!|3|45|191|4.24|Action, Adventure, Fantasy, Shonen, Supernatural
+6|18if|0|45|159|3.53|Fantasy, Supernatural
+6|Anifile|0|45|132|2.93|
+6|Black Butler: Book of Circus|10|44|213|4.84|Action, Comedy, Mystery, Supernatural
+6|A Certain Scientific Railgun|8|44|205|4.66|Action, Sci-Fi
+6|AIURA|12|44|185|4.2|Comedy, Slice Of Life
+6|Comic Girls|12|44|184|4.18|Comedy, Slice Of Life
+6|Owarimonogatari|15|43|204|4.74|Action, Comedy, Drama, Fantasy, Harem, Supernatural, Thriller
+6|Symphogear|65|43|199|4.63|Action, Adventure, Idols, Music, Sci-Fi
+6|Ojisan and Marshmallow|13|43|193|4.49|Comedy, Romance, Slice Of Life
+6|Teekyu|108|43|184|4.28|Comedy, Shonen, Slice Of Life, Sports
+6|Girly Air Force|12|43|170|3.95|Action, Sci-Fi
+6|IDOLiSH7|18|42|202|4.81|Idols, Music
+6|YUYUSHIKI|0|42|191|4.55|Comedy, Slice Of Life
+6|Kaede New Town|0|42|186|4.43|Comedy, Romance, Slice Of Life
+6|Full Metal Panic! Invisible Victory|0|42|185|4.4|Action, Drama, Mecha, Sci-Fi
+6|A Certain Scientific Accelerator|12|42|173|4.12|Action, Sci-Fi
+6|This Art Club Has a Problem!|12|42|172|4.1|Comedy, Seinen, Slice Of Life
+6|gdgd Fairies|24|42|170|4.05|
+6|Onee-chan ga Kita|12|42|165|3.93|Comedy, Slice Of Life
+6|The Reflection|12|42|141|3.36|Action, Adventure, Sci-Fi
+6|The Garden of Sinners|10|41|189|4.61|Action, Drama, Seinen, Supernatural, Thriller
+6|Chitose Get You!|26|41|174|4.24|Comedy, Slice Of Life
+6|Katana Maidens ~ Toji No Miko|25|41|165|4.02|Action, Fantasy, Supernatural
+6|Miss Monochrome - The Animation|39|41|159|3.88|Comedy, Idols, Sci-Fi, Slice Of Life
+6|Ai-Mai-Mi|13|41|145|3.54|Comedy, Slice Of Life
+6|Ange Vierge|12|41|108|2.63|Action, Adventure, Fantasy, Sci-Fi
+6|Akagi|26|40|187|4.68|Drama, Thriller
+6|KINMOZA!|24|40|180|4.5|Comedy, Slice Of Life
+6|Cuticle Detective Inaba|0|40|174|4.35|
+6|I've Always Liked You|1|40|169|4.22|Drama, Romance, Slice Of Life
+6|Photo Kano|0|40|122|3.05|Harem, Romance, Seinen
+6|Chivalry of a Failed Knight|12|39|187|4.79|Action, Drama, Fantasy, Romance
+6|Magic Kaito 1412|0|39|181|4.64|Adventure, Romance, Shonen
+6|This Boy is a Professional Wizard|4|39|173|4.44|Adventure, Fantasy, Romance
+6|My Sweet Tyrant|25|39|160|4.1|Comedy, Romance
+6|YU-NO: A Girl Who Chants Love at the Bound of This World|0|39|150|3.85|Adventure, Harem, Sci-Fi, Thriller
+6|ALL OUT!!|25|38|186|4.89|Action, Drama, Sports
+6|TO BE HERO|12|38|172|4.53|Action, Comedy, Fantasy, Supernatural
+6|Our love has always been 10 centimeters apart.|6|38|171|4.5|Drama, Romance
+6|Hayate the Combat Butler!|24|38|163|4.29|Action, Comedy, Harem, Romance, Slice Of Life
+6|Clean Freak! Aoyama kun|12|38|136|3.58|Comedy, Slice Of Life, Sports
+6|RErideD - Derrida, who leaps through time|12|38|113|2.97|Action, Drama, Post-Apocalyptic, Sci-Fi, Seinen
+6|Natsume Yuujinchou 6|13|37|184|4.97|Drama, Fantasy, Slice Of Life, Supernatural
+6|MOBILE SUIT GUNDAM 00|50|37|174|4.7|Action, Mecha, Sci-Fi
+6|WATATEN!: an Angel Flew Down to Me|13|37|170|4.59|Comedy, Slice Of Life
+6|Sanrio Boys|12|37|163|4.41|Comedy, Shojo, Slice Of Life
+6|Magimoji Rurumo|14|37|161|4.35|Comedy, Supernatural
+6|Hakuoki Reimeiroku|12|37|160|4.32|
+6|Day Break Illusion|13|37|154|4.16|Action, Fantasy, Magical Girls
+6|Celestial Method|13|37|152|4.11|Fantasy, Slice Of Life
+6|Yuuna and the Haunted Hot Springs|12|37|144|3.89|Comedy, Harem, Shonen, Supernatural
+6|Katsugeki TOUKEN RANBU|13|37|141|3.81|Action, Fantasy, Historical
+6|Room Mate|12|37|94|2.54|Harem, Romance, Slice Of Life
+6|Today's Menu for the Emiya Family|13|36|174|4.83|Seinen, Slice Of Life
+6|Angolmois: Record of Mongol Invasion|12|36|166|4.61|Action, Historical
+6|GeGeGe no Kitaro|95|36|160|4.44|Action, Adventure, Comedy, Fantasy, Shonen, Supernatural
+6|Fastest Finger First|12|36|140|3.89|Comedy, Seinen, Sports
+6|MEGANEBU!|0|36|131|3.64|Comedy, Slice Of Life
+6|Komori-san Can't Decline!|13|36|120|3.33|Comedy, Slice Of Life
+6|Joshi Kausei|12|36|117|3.25|Comedy, Slice Of Life
+6|Darwin's Game|6|35|170|4.86|
+6|Chio's School Road|12|35|168|4.8|Comedy, Slice Of Life
+6|Date A Live|0|35|155|4.43|Action, Comedy, Drama, Fantasy, Harem, Romance, Sci-Fi
+6|Amanchu!|25|35|153|4.37|Comedy, Slice Of Life
+6|Fan Service|0|35|146|4.17|
+6|Holy Knight|0|35|90|2.57|Drama, Fantasy, Harem, Seinen, Supernatural
+6|Time Taxi|0|34|165|4.85|
+6|GTO|0|34|157|4.62|Comedy
+6|Nyanko Days|12|34|149|4.38|Comedy, Slice Of Life
+6|How clumsy you are, Miss Ueno.|12|34|148|4.35|Comedy, Romance, Seinen
+6|Hakuoki Season 1|0|34|142|4.18|
+6|Anne-Happy|12|34|140|4.12|Comedy, Slice Of Life
+6|GRANBELM|13|34|134|3.94|Mecha
+6|Garakowa -Restore the World-|3|34|130|3.82|Drama, Sci-Fi
+6|MOBILE SUIT GUNDAM UNICORN RE:0096|22|34|123|3.62|Action, Mecha, Sci-Fi
+6|Trickster|0|34|111|3.26|
+6|Star Blazers: Space Battleship Yamato|0|33|155|4.7|
+6|Utakoi|13|33|153|4.64|Drama, Historical, Romance
+6|Nobunaga Concerto (Drama)|0|33|152|4.61|
+6|Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note|14|33|151|4.58|Fantasy, Mystery, Supernatural
+6|Harukana Receive|12|33|146|4.42|Drama, Sports
+6|DOUBLE DECKER! DOUG & KIRILL|16|33|142|4.3|Action, Drama, Sci-Fi, Seinen
+6|Fafner Exodus|26|33|138|4.18|Action, Adventure, Mecha, Sci-Fi
+6|Children of Ether|1|33|136|4.12|Action, Adventure, Seinen
+6|Fate/Grand Order - First Order|1|33|117|3.55|Action, Fantasy, Supernatural
+6|URAHARA|12|33|112|3.39|Action, Adventure, Comedy, Sci-Fi, Slice Of Life
+6|Sparrow's Hotel|12|33|105|3.18|Action, Comedy, Seinen, Slice Of Life
+6|Dances with the Dragons|12|33|89|2.7|Action, Fantasy
+6|BROTHERHOOD FINAL FANTASY XV|5|32|156|4.88|Action, Drama, Fantasy
+6|Young Black Jack|12|32|140|4.38|Drama, Historical, Seinen, Thriller
+6|Meiji Tokyo Renka|12|32|136|4.25|Drama, Historical, Isekai, Supernatural
+6|Galilei Donna|11|32|109|3.41|Action, Adventure, Drama, Mystery, Sci-Fi
+6|Momo Kyun Sword|12|32|106|3.31|Action, Adventure, Fantasy
+6|Love To-LIE-Angle|12|32|106|3.31|Comedy, Romance
+6|CHRONOS RULER|13|32|103|3.22|Action, Drama, Fantasy
+6|Yotsuiro Biyori|12|31|152|4.9|Comedy, Slice Of Life
+6|The Familiar of Zero|13|31|143|4.61|Comedy, Fantasy, Harem, Seinen
+6|Fushigi Yugi|0|31|136|4.39|Adventure, Drama, Fantasy, Isekai, Romance, Shojo
+6|Comical Psychosomatic Medicine|20|31|126|4.06|Comedy, Slice Of Life
+6|Brave Witches|12|31|125|4.03|Action, Sci-Fi
+6|Caligula|12|31|109|3.52|Action, Sci-Fi
+6|Frankenstein Family|12|31|88|2.84|Sci-Fi, Slice Of Life
+6|Between the Sky and Sea|12|31|73|2.35|Adventure, Sci-Fi, Slice Of Life
+6|Natsume Yuujinchou 5|14|30|147|4.9|Adventure, Drama, Slice Of Life, Supernatural
+6|Eureka Seven|0|30|146|4.87|Adventure, Drama, Mecha, Romance, Sci-Fi
+6|BanG Dream!|26|30|134|4.47|Comedy, Music
+6|Stella Women’s Academy, High School Division Class C3|0|30|127|4.23|Action, Comedy, Drama, Shonen, Slice Of Life, Sports
+6|Dagashi Kashi|12|30|126|4.2|Comedy, Romance, Slice Of Life
+6|Mobile Suit Gundam Seed|48|30|124|4.13|Action, Mecha, Sci-Fi
+6|Akiba's Trip The Animation|0|30|121|4.03|Action, Comedy, Supernatural
+6|Mobile Suit Gundam Wing|49|30|117|3.9|Action, Mecha, Sci-Fi
+6|Danchigai|12|30|117|3.9|Comedy, Slice Of Life
+6|Wish Upon the Pleiades|12|30|109|3.63|Action, Drama, Fantasy, Magical Girls, Sci-Fi
+6|Strange+|24|30|105|3.5|Drama, Mystery, Thriller
+6|Gunslinger Stratos THE ANIMATION|12|30|103|3.43|Action, Sci-Fi
+6|La corda d’oro -Blue Sky-|12|30|97|3.23|Harem, Music, Romance, Shojo, Supernatural
+6|HAKYU HOSHIN ENGI|25|30|88|2.93|Adventure, Fantasy, Shonen, Supernatural
+6|Try Knights|12|30|62|2.07|Action, Drama, Shojo, Sports
+6|Muromi-san|13|29|136|4.69|Adventure, Comedy, Fantasy
+6|SAIYUKI RELOAD BLAST|12|29|131|4.52|Action, Adventure, Drama, Fantasy, Supernatural
+6|Zatch Bell!|0|29|129|4.45|Action, Adventure, Comedy, Fantasy, Shonen
+6|Re:ZERO -Starting Life in Another World- SHORTS|25|29|122|4.21|Action, Adventure, Comedy, Fantasy, Isekai, Romance, Slice Of Life
+6|Hinako Note|12|29|114|3.93|Comedy, Slice Of Life
+6|The File of Young Kindaichi Returns|0|29|113|3.9|Adventure, Mystery, Shonen, Supernatural, Thriller
+6|Absolute Duo|0|29|105|3.62|Action, Fantasy, Romance
+6|Zettai Boei Leviatan|13|29|102|3.52|Action, Adventure, Comedy, Fantasy, Slice Of Life
+6|Fist of the Blue Sky: Regenesis|24|29|79|2.72|Action, Adventure, Shonen
+6|Monster Strike|159|29|75|2.59|Action, Fantasy
+6|Grimms Notes the Animation|12|29|72|2.48|Action, Adventure, Fantasy
+6|Last Cinderella|0|28|137|4.89|
+6|Junjo Romantica|0|28|134|4.79|Drama, Romance
+6|Yu-Gi-Oh! 5D's|0|28|132|4.71|Action, Fantasy, Sci-Fi, Shonen, Supernatural
+6|Daily Lives of High School Boys|0|28|132|4.71|Comedy, Slice Of Life
+6|Little Nemo: Adventures in Slumberland|0|28|131|4.68|Adventure, Fantasy
+6|A Lull in the Sea (Nagi-Asu: Nagi no Asukara)|0|28|128|4.57|Drama, Fantasy, Romance
+6|Moyashimon|22|28|126|4.5|Comedy, Slice Of Life
+6|Boku-no-imoutowa"Osaka-okan"|12|28|96|3.43|Comedy, Slice Of Life
+6|Seiren|12|28|95|3.39|Romance, Slice Of Life
+6|Cheating Craft|12|28|84|3.0|Action, Comedy
+6|Os Cavaleiros do Zodíaco|114|27|134|4.96|
+6|Mischievous Kiss 2 - Love in Okinawa|17|27|131|4.85|
+6|Wakakozake (Drama)|0|27|127|4.7|Food
+6|Inugami-san to Nekoyama-san|12|27|117|4.33|Comedy, Romance
+6|ETOTAMA|12|27|104|3.85|Action, Comedy, Supernatural
+6|True Cooking Master Boy|12|27|95|3.52|Shonen
+6|Xuan Yuan Sword Luminary|13|27|89|3.3|Action, Adventure, Fantasy, Historical, Supernatural
+6|B-PROJECT|0|27|88|3.26|Idols, Romance
+6|Fan Chronicles: Um Documentário Crunchyroll|3|27|37|1.37|
+6|Senryu Girl|12|26|124|4.77|Comedy, Slice Of Life
+6|Full Metal Panic!|0|26|124|4.77|Action, Comedy, Drama, Mecha, Sci-Fi
+6|Lovely Complex|24|26|123|4.73|Romance, Shojo
+6|Anohana: The Flower We Saw That Day (Drama)|1|26|111|4.27|
+6|Anime de Training! Ex|24|26|98|3.77|Comedy, Slice Of Life
+6|CHAOS;CHILD|14|26|97|3.73|Mystery, Thriller
+6|Code: Realize ~Guardian of Rebirth~|13|26|97|3.73|Harem, Mystery, Romance
+6|Phantom in the Twilight|12|26|93|3.58|Drama, Fantasy, Romance, Supernatural, Thriller
+6|Soul Buster|12|26|69|2.65|Action, Adventure, Fantasy, Historical
+6|Arakawa Under the Bridge|0|25|119|4.76|Comedy, Romance
+6|Death Note|0|25|118|4.72|Supernatural, Thriller
+6|Locodol|15|25|110|4.4|Comedy, Music, Seinen, Slice Of Life
+6|Encouragement Of Climb|26|25|110|4.4|Comedy, Slice Of Life, Sports
+6|BAKUON!!|12|25|109|4.36|Comedy, Slice Of Life
+6|The Magnificent KOTOBUKI|12|25|99|3.96|Action, Adventure
+6|Angel's 3Piece!|12|25|93|3.72|Comedy, Music, Slice Of Life
+6|A Destructive God Sits Next to Me|10|25|88|3.52|Comedy, Slice Of Life
+6|R.O.D.|0|24|111|4.62|Action, Comedy, Drama, Sci-Fi
+6|Scorching Ping Pong Girls|12|24|105|4.38|Action, Comedy, Slice Of Life, Sports
+6|Yu-Gi-Oh! GX|0|24|103|4.29|Action, Adventure, Fantasy, Shonen, Supernatural
+6|Switch Girl!!|0|24|99|4.12|Comedy
+6|Future Diary: Another World|0|24|97|4.04|
+6|momokuri|13|24|97|4.04|Comedy, Romance
+6|The Laughing Salesman|12|24|92|3.83|Mystery, Seinen, Supernatural, Thriller
+6|Pan de Peace!|13|24|78|3.25|Comedy, Slice Of Life
+6|Straight Title Robot Anime|12|24|74|3.08|Comedy, Sci-Fi
+6|Antiquarian Bookshop Biblia's Case Files|0|23|114|4.96|
+6|Black Clover (Dublagens Internacionais)|52|23|113|4.91|Action, Adventure, Comedy, Fantasy, Shonen
+6|Yu-Gi-Oh! ARC-V|0|23|106|4.61|Adventure, Fantasy, Shonen, Supernatural
+6|Liar Game|0|23|105|4.57|
+6|Yowamushi Pedal New Generation|50|23|103|4.48|Action, Drama, Shonen, Sports
+6|Blade Runner Black Out 2022|0|23|103|4.48|Action, Sci-Fi
+6|Yakitate!! Japan|0|23|102|4.43|Action, Comedy, Shonen
+6|PERSONA5 the Animation -THE DAY BREAKERS-|1|23|98|4.26|Action, Mystery, Supernatural, Thriller
+6|Bokurano|0|23|96|4.17|Drama, Mecha, Sci-Fi
+6|Re-Kan!|0|23|96|4.17|Comedy
+6|The Moment You Fall in Love|1|23|94|4.09|Drama, Romance, Slice Of Life
+6|Lychee Light Club|8|23|79|3.43|Comedy, Drama, Romance
+6|ARIA The ANIMATION|0|22|107|4.86|Sci-Fi, Slice Of Life
+6|MAGICAL CIRCLE GURU-GURU|24|22|103|4.68|Action, Adventure, Comedy, Fantasy
+6|Ultraman Orb|25|22|103|4.68|
+6|Dororo Motion Magazine|0|22|102|4.64|Action, Adventure, Supernatural
+6|Mr. TONEGAWA Middle Management Blues|24|22|101|4.59|Comedy, Drama, Seinen
+6|Fate/Grand Order Absolute Demonic Front: Babylonia|18|22|92|4.18|Action, Fantasy
+6|Slow Start|12|22|91|4.14|Comedy, Slice Of Life
+6|Hell Girl: Fourth Twilight|12|22|87|3.95|Drama, Supernatural
+6|Astro Boy Motion Magazine|0|22|82|3.73|
+6|Merc StoriA: The Apathetic Boy and the Girl in a Bottle|12|22|82|3.73|Fantasy
+6|Fantasista Doll|0|22|80|3.64|Action, Comedy, Fantasy, Magical Girls, Sci-Fi
+6|Takamiya Nasuno Desu!|12|22|77|3.5|Comedy, Shonen, Slice Of Life
+6|Aooni The Blue Monster|14|22|70|3.18|Comedy, Supernatural, Thriller
+6|Maerchen Maedchen|12|22|68|3.09|Fantasy, Supernatural
+6|JK-Meshi!|26|22|52|2.36|Comedy, Slice Of Life
+6|The Tatami Galaxy|0|21|104|4.95|
+6|Tonkatsu DJ Agetaro|12|21|97|4.62|Comedy, Music, Shonen, Slice Of Life
+6|Anime-Gataris|12|21|87|4.14|Comedy, Slice Of Life
+6|Riddle Story of Devil|0|21|86|4.1|Drama, Mystery
+6|Phoenix Motion Magazine|0|21|81|3.86|
+6|Gonna Be the Twin-Tail!!|0|21|76|3.62|Action, Comedy, Romance, Sci-Fi
+6|Tokyo ESP|0|21|60|2.86|Action, Comedy
+6|Lord of Vermilion: The Crimson King|12|21|54|2.57|Action, Fantasy
+6|The Twelve Kingdoms|0|20|97|4.85|Adventure, Fantasy, Historical, Isekai
+6|Gurazeni: Money Pitch|24|20|95|4.75|Comedy, Drama, Seinen, Sports
+6|Genshiken|13|20|90|4.5|Comedy, Seinen, Slice Of Life
+6|Ooya-san wa Shishunki!|12|20|89|4.45|Comedy, Slice Of Life
+6|Girlish number|12|20|84|4.2|Comedy, Idols, Slice Of Life
+6|Future Card Buddyfight|0|20|84|4.2|Action, Sci-Fi, Shonen
+6|Rowdy Sumo Wrestler Matsutaro|23|20|76|3.8|Action, Comedy, Shonen, Sports
+6|Sekko Boys|12|20|73|3.65|Comedy, Idols, Music, Slice Of Life
+6|elDLIVE|12|20|67|3.35|Adventure, Sci-Fi
+6|Lostorage incited WIXOSS|24|20|66|3.3|Drama, Sci-Fi, Thriller
+6|Military!|12|20|64|3.2|Comedy
+6|Last Period: the journey to the end of the despair|12|20|63|3.15|Action, Adventure, Comedy, Fantasy
+6|Mahou Shoujo? Naria Girls|12|20|51|2.55|Comedy, Fantasy, Shojo
+6|Schoolgirl Strikers|13|20|50|2.5|Action, Magical Girls, Sci-Fi, Supernatural
+6|FOREST FAIRY FIVE|25|20|44|2.2|Fantasy
+6|Hero|0|19|92|4.84|
+6|My Bride is a Mermaid|26|19|91|4.79|
+6|KAGEWANI|26|19|85|4.47|Mystery, Sci-Fi, Thriller
+6|Gifu Dodo!! Kanetsugu and Keiji|25|19|80|4.21|Action, Historical
+6|VOICE OF FOX|12|19|78|4.11|Drama, Music, Slice Of Life
+6|Starlight Promises|1|19|78|4.11|Drama, Fantasy, Historical, Romance
+6|DearS|0|19|69|3.63|Comedy, Harem, Romance, Sci-Fi
+6|Mahou Shoujo Nante Mouiidesukara|24|19|64|3.37|Comedy, Fantasy
+6|Hakone-chan|13|19|57|3.0|Comedy, Slice Of Life, Supernatural
+6|LUPIN THE 3rd PART4|26|18|88|4.89|Action, Adventure, Mystery, Seinen
+6|Muhyo & Roji's Bureau of Supernatural Investigation|12|18|73|4.06|Mystery, Supernatural
+6|Magic-Kyun! Renaissance|13|18|72|4.0|Music, Romance, Supernatural
+6|Wakaba Girl|13|18|72|4.0|Comedy, Slice Of Life
+6|A Town Where You Live|0|18|71|3.94|Drama, Romance, Shonen
+6|Libra of Nil Admirari|12|18|71|3.94|Historical, Romance
+6|Samurai Warriors|13|18|68|3.78|Action, Fantasy, Historical
+6|FLCL|12|18|66|3.67|Action, Comedy, Drama, Mecha, Sci-Fi
+6|Monster Hunter Stories Ride On|0|18|57|3.17|Adventure, Fantasy
+6|Fight League: Gear Gadget Generators|26|18|56|3.11|Action, Mecha, Sci-Fi
+6|HIMOTE HOUSE: A share house of super psychic girls|12|18|48|2.67|Comedy
+6|The Irresponsible Galaxy Tylor|12|18|26|1.44|Adventure, Comedy, Sci-Fi
+6|LUPIN THE 3rd PART 5|24|17|83|4.88|Action, Adventure, Mystery, Seinen
+6|The Case Files of Jeweler Richard|11|17|81|4.76|Drama, Seinen, Slice Of Life
+6|Champion Joe 2|47|17|81|4.76|Action, Drama, Sports
+6|Please Teacher!|0|17|75|4.41|Comedy, Drama, Romance, Sci-Fi
+6|Samurai Jam-Bakumatsu Rock|12|17|73|4.29|Action, Comedy, Drama, Historical, Idols, Music, Sci-Fi
+6|Gangsta.|0|17|73|4.29|Action, Drama, Seinen
+6|DD Fist of the North Star|25|17|72|4.24|Comedy, Fantasy, Shonen, Slice Of Life
+6|Blue Submarine No. 6|0|17|59|3.47|Action, Drama, Sci-Fi
+6|Mangirl!|13|17|57|3.35|Comedy, Shonen
+6|RWBY VOLUME 1-3: The Beginning|13|17|57|3.35|Action, Adventure, Drama, Fantasy, Sci-Fi
+6|Majin Bone|52|17|56|3.29|Action, Fantasy, Isekai, Shonen
+6|Pikotaro no LULLABY LA LA BY|12|16|76|4.75|Comedy, Slice Of Life
+6|ENDRO!|12|16|76|4.75|Fantasy, Slice Of Life
+6|MOBILE SUIT GUNDAM THE ORIGIN Advent of the Red Comet|13|16|75|4.69|Action, Mecha, Sci-Fi
+6|MAJOR 2nd|25|16|74|4.62|Shonen, Sports
+6|Anima Yell!|12|16|74|4.62|Comedy, Slice Of Life, Sports
+6|Hi-sCool! Seha Girls|13|16|69|4.31|Comedy, Slice Of Life
+6|The Princess and the Pilot|0|16|68|4.25|Action, Adventure, Drama, Romance
+6|Crunchycast|0|16|67|4.19|
+6|Z/X IGNITION|12|16|64|4.0|Action, Adventure, Fantasy, Shonen
+6|Yu-Gi-Oh! ZEXAL|0|16|64|4.0|Action, Fantasy, Sci-Fi, Shonen, Supernatural
+6|Hackadoll THE ANIMATION|13|16|62|3.88|Comedy
+6|Gundam Build Divers|39|16|60|3.75|Action, Mecha, Sci-Fi, Slice Of Life
+6|Onara Goro|11|16|57|3.56|Comedy, Slice Of Life
+6|VIRTUALSAN - LOOKING|12|16|50|3.12|Comedy
+6|Wagamama High Spec|12|16|42|2.62|Comedy, Slice Of Life
+6|Taisho Mebiusline Chicchaisan|13|16|33|2.06|Adventure, Historical, Supernatural
+6|Outlaw Star|0|15|71|4.73|
+6|Ninja Girl & Samurai Master|79|15|70|4.67|Action, Adventure, Comedy, Historical
+6|Tiger Mask W|38|15|70|4.67|Action, Drama, Shonen, Sports
+6|JOKER|52|15|66|4.4|Adventure, Comedy, Mystery, Shonen
+6|Donyatsu|12|15|65|4.33|Comedy, Post-Apocalyptic
+6|Tribe Cool Crew|50|15|64|4.27|Action, Comedy, Slice Of Life, Sports
+6|Kyo Kara Maoh|0|15|63|4.2|Adventure, Comedy, Fantasy, Harem, Isekai, Supernatural
+6|Cardfight!! Vanguard Asia Circuit (Season 2)|0|15|62|4.13|
+6|AMAZING STRANGER|12|15|56|3.73|Comedy, Romance
+6|Fullmetal Alchemist: The Conqueror of Shamballa|1|15|54|3.6|Action, Adventure, Drama, Fantasy, Shonen
+6|Yatogame-chan Kansatsu Nikki|23|15|48|3.2|Comedy, Shonen, Slice Of Life
+6|Mobile Suit Gundam Seed Destiny|50|15|45|3.0|Action, Mecha, Sci-Fi
+6|Squishy! Black Clover|8|15|42|2.8|Action, Comedy, Fantasy, Shonen
+6|The Eccentric Family 2|12|14|69|4.93|Comedy, Drama, Fantasy, Slice Of Life, Supernatural
+6|Yurikuma Arashi|0|14|66|4.71|Comedy, Drama, Fantasy, Romance, Seinen, Supernatural
+6|Traveling Daru|0|14|65|4.64|Adventure, Comedy, Slice Of Life
+6|Mitchiri Neko|13|14|62|4.43|Comedy, Slice Of Life
+6|Asteroid in Love|12|14|61|4.36|Comedy, Romance, Slice Of Life
+6|Ultraman X|24|14|60|4.29|
+6|Cardfight!! Vanguard Link Joker (Season 3)|0|14|60|4.29|Action
+6|The Dragon Dentist|2|14|59|4.21|Action, Adventure, Fantasy, Supernatural
+6|Touken Ranbu - Hanamaru|24|14|56|4.0|Action, Comedy, Drama, Fantasy, Historical, Slice Of Life
+6|Tesagure! Bukatsumono|36|14|54|3.86|Comedy, Slice Of Life
+6|Crossing Time|12|14|54|3.86|Comedy, Romance, Slice Of Life
+6|Peeping Life TV Season 1??|12|14|49|3.5|Comedy
+6|Nurse Witch KOMUGI R|12|14|48|3.43|Comedy, Fantasy, Idols
+6|Cardfight!! Vanguard G|0|14|48|3.43|Action, Comedy, Drama
+6|You Don't Know Gunma Yet|12|14|44|3.14|Comedy, Slice Of Life, Thriller
+6|OZMAFIA!!|12|14|42|3.0|Comedy, Fantasy, Romance, Slice Of Life
+6|HEYBOT!|50|14|40|2.86|Comedy, Sci-Fi
+6|Anime Academy|0|14|37|2.64|
+6|Library War|0|13|63|4.85|Action, Romance
+6|MIX|0|13|63|4.85|Shonen, Sports
+6|Crazy For Me|0|13|61|4.69|Comedy
+6|Space Battleship Tiramisu|0|13|60|4.62|Comedy, Mecha, Sci-Fi, Seinen, Slice Of Life
+6|Os Cavaleiros do Zodíaco - Saga de Hades|62|13|59|4.54|
+6|Tabimachi Lateshow|4|13|59|4.54|Drama, Seinen, Slice Of Life
+6|IRYU - Team Medical Dragon|0|13|59|4.54|
+6|Deltora Quest|0|13|58|4.46|Adventure, Fantasy
+6|Wooser's Hand-to-Mouth Life|24|13|49|3.77|Comedy, Slice Of Life
+6|Girl Friend BETA|12|13|48|3.69|Romance, Slice Of Life
+6|World Fool News|12|13|47|3.62|Comedy, Slice Of Life
+6|Love Rice|24|13|45|3.46|Comedy, Slice Of Life
+6|Tenjho Tenge|0|13|35|2.69|Action, Seinen, Supernatural
+6|Kaiba|0|12|60|5.0|Adventure, Drama, Fantasy, Romance, Sci-Fi
+6|BONO BONO|154|12|59|4.92|Comedy, Slice Of Life
+6|Hikaru no Go|0|12|58|4.83|Fantasy, Sports
+6|MARGINAL #4 the Animation|12|12|54|4.5|Idols, Slice Of Life
+6|Miss Bernard said.|12|12|53|4.42|Comedy, Slice Of Life
+6|Cinderella Nine|12|12|51|4.25|Drama, Slice Of Life, Sports
+6|Gunbuster 2|0|12|51|4.25|Action, Drama, Mecha, Sci-Fi
+6|Koro Sensei Quest!|0|12|51|4.25|Comedy, Fantasy, Shonen
+6|Nyanbo!|26|12|49|4.08|Comedy, Sci-Fi
+6|Null & Peta|12|12|47|3.92|Comedy, Slice Of Life
+6|Ceres, Celestial Legend|0|12|46|3.83|Drama, Romance, Supernatural
+6|Sorcery in the Big City|1|12|45|3.75|Action, Adventure, Fantasy, Mystery, Supernatural
+6|DREAM FESTIVAL!|24|12|44|3.67|Drama, Idols, Music
+6|Tantei Team KZ Jiken Note|16|12|44|3.67|Mystery
+6|Butlers X Battlers|12|12|39|3.25|Action, Supernatural
+6|This Boy Suffers from Crystallization|0|12|38|3.17|Drama, Fantasy, Romance
+6|Milpom|6|12|32|2.67|Comedy
+6|Urawa no Usagi-chan|12|12|31|2.58|Comedy, Slice Of Life
+6|BAKUMATSU|24|12|28|2.33|Action
+6|Dr. Coto's Clinic|0|11|55|5.0|
+6|Detective vs Detectives|0|11|55|5.0|
+6|Samurai Troopers|0|11|54|4.91|Action, Adventure, Drama, Fantasy, Historical, Shonen, Supernatural
+6|Gundam Build Fighters|50|11|54|4.91|Action, Mecha, Sci-Fi, Slice Of Life
+6|Cromartie High School|0|11|52|4.73|Comedy, Shonen
+6|Oda Cinnamon Nobunaga|11|11|51|4.64|Comedy
+6|Mobile Fighter G Gundam|49|11|49|4.45|Action, Mecha, Sci-Fi
+6|Magia Record: Puella Magi Madoka Magica Side Story|10|11|49|4.45|Fantasy
+6|Starmyu|24|11|48|4.36|Comedy, Idols, Music, Slice Of Life
+6|ROOM CAMP|11|11|47|4.27|Comedy, Slice Of Life
+6|Akagi (Drama)|10|11|47|4.27|
+6|KING OF PRISM -Shiny Seven Stars-|12|11|46|4.18|Idols, Music, Sports
+6|Robot Girls Z|9|11|46|4.18|Comedy, Fantasy, Mecha, Sci-Fi
+6|Piacevole|12|11|45|4.09|Comedy, Slice Of Life
+6|Our Home's Fox Deity|0|11|45|4.09|Comedy, Drama, Fantasy, Slice Of Life, Supernatural
+6|ClassicaLoid|25|11|43|3.91|Comedy, Music, Sci-Fi
+6|Magical Somera-chan|12|11|41|3.73|Comedy
+6|NINJA SLAYER FROM ANIMATION|0|11|40|3.64|Action, Comedy, Sci-Fi, Shonen
+6|DEMIAN|0|11|39|3.55|Action, Mecha, Sci-Fi
+6|PES: Peace Eco Smile|0|11|33|3.0|
+6|TWOCAR|12|11|28|2.55|Action, Seinen, Sports
+6|Wonder Momo|5|11|25|2.27|Action, Idols, Magical Girls, Sci-Fi
+6|Call to Cosplay|0|11|22|2.0|
+6|A Talk on Titan|0|11|18|1.64|
+6|We Rent Tsukumogami|12|10|50|5.0|Drama, Fantasy, Historical, Romance, Supernatural
+6|Why Did You Come to Japan?|0|10|50|5.0|
+6|Flame of Recca|0|10|50|5.0|Action, Adventure, Shonen, Supernatural
+6|Book Girl|1|10|49|4.9|Drama, Mystery, Romance
+6|Hard To Say I Love You|0|10|47|4.7|
+6|Princess Nine|0|10|46|4.6|Action, Drama, Sports
+6|Bludgeoning Angel Dokuro-chan|0|10|46|4.6|Comedy, Magical Girls, Romance
+6|Full Metal Panic? Fumoffu|0|10|46|4.6|Action, Comedy, Mecha, Slice Of Life
+6|Jin Roh|0|10|45|4.5|Drama, Romance, Sci-Fi, Thriller
+6|Hina Logic - from Luck & Logic|12|10|43|4.3|Action, Comedy, Fantasy
+6|Da Capo III|13|10|43|4.3|Comedy, Drama, Harem, Romance
+6|DRAGON COLLECTION|0|10|40|4.0|Action, Adventure, Fantasy
+6|ANISAVA|0|10|40|4.0|Comedy, Slice Of Life
+6|Minami Kamakura High School Girls Cycling Club|13|10|40|4.0|Slice Of Life, Sports
+6|Ebiten|0|10|36|3.6|Comedy, Slice Of Life
+6|Zombie Loan|0|10|35|3.5|Action, Romance, Supernatural, Thriller
+6|A Taste of Honey|0|10|33|3.3|
+6|Inuyasha|0|9|45|5.0|Action, Adventure, Fantasy, Romance
+6|Samurai Pizza Cats|0|9|44|4.89|Action, Comedy, Historical, Sci-Fi, Shonen
+6|Wild Mom|0|9|44|4.89|
+6|Galileo|0|9|43|4.78|
+6|Digimon Universe App Monsters|52|9|42|4.67|Action, Sci-Fi
+6|Always the Two of Us|0|9|40|4.44|
+6|Looking Up at the Half-Moon|0|9|40|4.44|Comedy, Drama, Romance
+6|Ordinary Miracles|0|9|39|4.33|
+6|Shonen Ashibe GO! GO! Goma-chan|120|9|39|4.33|Adventure, Comedy, Slice Of Life
+6|Chrono Crusade|0|9|38|4.22|Action, Adventure, Drama, Fantasy, Romance, Supernatural
+6|Shamanic Princess|0|9|33|3.67|Action, Drama, Fantasy, Magical Girls, Romance
+6|Dimension High School|12|9|30|3.33|Adventure, Mystery
+6|Million Arthur|0|9|27|3.0|Adventure, Fantasy
+6|Ikemen Sengoku: Bromances Across Time|12|8|40|5.0|Comedy, Historical, Romance
+6|Gakuen Alice|0|8|40|5.0|Comedy, Shojo
+6|Ghostwriter|0|8|40|5.0|
+6|Martian Successor Nadesico|0|8|40|5.0|Comedy, Mecha, Sci-Fi
+6|PriPri Chi-chan!!|0|8|40|5.0|Comedy, Sci-Fi, Shojo
+6|Ultraman Geed|26|8|39|4.88|Action, Fantasy, Mecha, Sci-Fi
+6|Angel Heart|0|8|39|4.88|Action
+6|Shin Atashinchi|26|8|39|4.88|Comedy, Slice Of Life
+6|Power Office Girls 2013|0|8|37|4.62|
+6|You Taught Me All the Precious Things|0|8|36|4.5|
+6|Kiitaro's yokai picture diary|12|8|34|4.25|Comedy, Fantasy, Supernatural
+6|Working Buddies!|25|8|34|4.25|Comedy, Slice Of Life
+6|You're Being Summoned, Azazel|0|8|34|4.25|Comedy, Fantasy, Supernatural
+6|KOWABON|13|8|34|4.25|
+6|Mazinkaiser SKL|0|8|33|4.12|Action, Adventure, Mecha, Sci-Fi, Shonen
+6|Ai-Mai-Mi Mousou Catastrophe|12|8|31|3.88|Comedy, Slice Of Life
+6|The Nameko Families|13|8|30|3.75|Comedy, Slice Of Life
+6|THE [email protected] CINDERELLA GIRLS Theater|92|8|30|3.75|Comedy, Idols, Music, Slice Of Life
+6|GTO Taiwan|0|8|30|3.75|Comedy
+6|TSUKIPRO THE ANIMATION|13|8|30|3.75|Idols, Music, Slice Of Life
+6|Twin Angels BREAK|12|8|29|3.62|Action, Drama, Magical Girls, Shonen, Supernatural
+6|FINAL FANTASY XV: EPISODE ARDYN - PROLOGUE|1|8|28|3.5|Action, Adventure, Drama, Fantasy
+6|Jubei-chan: The Ninja Girl|0|8|28|3.5|Action, Adventure, Comedy, Drama, Shonen
+6|BAKUMATSU GIJINDEN ROMAN|12|8|27|3.38|Action, Drama, Romance, Sci-Fi
+6|Shiratori Reiko|0|8|27|3.38|
+6|DNA^2|0|8|27|3.38|Action, Comedy, Romance, Sci-Fi
+6|Peacemaker|0|8|23|2.88|
+6|Shining Tears X Wind|0|8|21|2.62|Action, Adventure, Fantasy
+6|Rainy Cocoa sideG|12|8|15|1.88|Comedy, Slice Of Life
+6|Group Watch|0|7|35|5.0|
+6|Desperate Motherhood|0|7|35|5.0|
+6|Hikakin Beatbox|0|7|35|5.0|
+6|Kimagure Orange Road|0|7|35|5.0|Action, Comedy, Drama, Romance, Supernatural
+6|Zapuni|0|7|34|4.86|
+6|Gakuen Heaven|0|7|34|4.86|Comedy, Drama, Harem, Romance, Slice Of Life
+6|Marmalade Boy|76|7|34|4.86|
+6|Tsukimonogatari|1|7|34|4.86|Action, Comedy, Drama, Fantasy, Harem, Supernatural
+6|The Prince of Tennis II OVA vs Genius 10|10|7|33|4.71|Action, Drama, Shonen, Sports
+6|Mobile Suit Gundam Wing - Endless Waltz|1|7|33|4.71|Action, Mecha, Sci-Fi
+6|Honey and Clover|0|7|33|4.71|Comedy, Drama, Romance, Slice Of Life
+6|Anonymous Noise|0|7|33|4.71|Drama, Music, Romance
+6|Big Windup! 2|0|7|33|4.71|Drama, Sports
+6|KAIJU GIRLS|24|7|32|4.57|Comedy, Fantasy, Sci-Fi
+6|Brave Beats|22|7|31|4.43|Music, Sci-Fi
+6|Ghost Slayers Ayashi|0|7|31|4.43|Adventure, Drama, Historical, Supernatural
+6|Karate Girl|0|7|31|4.43|Action, Martial Arts, Thriller
+6|Nagasarete Airanto|0|7|30|4.29|Harem, Romance
+6|Thermae Romae|0|7|30|4.29|Comedy, Historical, Isekai, Seinen, Slice Of Life
+6|Ai-Mai-Mi Surgical Friends|12|7|27|3.86|Comedy, Slice Of Life
+6|Late night! The Genius Bakabon|12|7|27|3.86|Comedy, Slice Of Life
+6|Earl and Fairy|0|7|26|3.71|Adventure, Drama, Harem, Historical, Romance
+6|Cardfight!! Vanguard Legion Mate (Season 4)|0|7|26|3.71|Action
+6|Welcome to the JAPARI PARK|24|7|25|3.57|
+6|Anime Recap|0|7|25|3.57|
+6|Idol Incidents|12|7|24|3.43|Idols, Music
+6|HEROBANK|0|7|22|3.14|Action, Sci-Fi
+6|SD GUNDAM WORLD SANGOKU SOKETSUDEN|7|7|20|2.86|Action, Adventure, Mecha, Shonen
+6|Pastel Memories|11|7|19|2.71|Comedy, Sci-Fi, Slice Of Life
+6|Million Doll|12|7|17|2.43|Idols, Music
+6|Nazotokine|12|7|11|1.57|Comedy, Drama, Isekai, Sci-Fi
+6|Lupin the Third Part 2|0|6|30|5.0|Action, Adventure, Mystery, Seinen
+6|Emma: A Victorian Romance|0|6|28|4.67|Drama, Historical, Romance
+6|Ultraman Gaia|0|6|28|4.67|
+6|True Tears|0|6|28|4.67|Drama, Romance, Slice Of Life
+6|Anisong Station|0|6|27|4.5|Idols, Music
+6|Nekomonogatari Black|4|6|26|4.33|Action, Comedy, Drama, Fantasy, Harem, Supernatural, Thriller
+6|Wacky TV Nanana|48|6|26|4.33|Comedy
+6|SENGOKUCHOJYUGIGA|26|6|25|4.17|Comedy, Fantasy, Historical, Slice Of Life, Supernatural
+6|Lupin the Third Part 1|0|6|25|4.17|Action, Adventure, Mystery, Seinen
+6|Please Twins!|0|6|25|4.17|Comedy, Drama, Harem, Romance
+6|gdgd men's party|0|6|24|4.0|Comedy
+6|Hana Yori Dango (Boys Over Flowers)|51|6|24|4.0|Romance, Shojo
+6|Usakame|12|6|23|3.83|Comedy, Slice Of Life, Sports
+6|Music Girls|12|6|22|3.67|Idols, Music, Shojo, Slice Of Life
+6|Lost Universe|0|6|22|3.67|Adventure, Comedy, Drama, Sci-Fi, Shonen
+6|Fist of the North Star: The Movie|0|6|22|3.67|Action, Adventure, Post-Apocalyptic, Sci-Fi, Shonen
+6|Ultraman Nexus|0|6|21|3.5|
+6|Dallos|0|6|20|3.33|Drama, Sci-Fi
+6|El-Hazard: The Wanderers|0|6|19|3.17|Adventure, Comedy, Isekai
+6|Ah My Buddha!!|0|6|18|3.0|Comedy, Harem, Slice Of Life, Supernatural
+6|Street Fighter II: The Animated Series|0|6|17|2.83|Action
+6|Chargeman Ken|0|6|15|2.5|Action, Adventure, Sci-Fi
+6|Rainy Cocoa|24|6|14|2.33|Comedy, Slice Of Life
+6|Crane Game Girls|25|6|12|2.0|Comedy, Sci-Fi
+6|Welcome, Chitose|0|5|25|5.0|
+6|Meow Meow Japanese History|96|5|25|5.0|Comedy, Historical
+6|Accel World|0|5|25|5.0|Sci-Fi
+6|The Last - Naruto the Movie|0|5|25|5.0|Romance, Shonen
+6|Inukami!|0|5|24|4.8|Action, Comedy, Romance, Supernatural
+6|Street Fighter II The Animated Movie|0|5|24|4.8|Action
+6|Gokudo|0|5|24|4.8|Adventure, Comedy, Fantasy
+6|Sketchbook ~full color's~|0|5|24|4.8|Comedy, Shonen, Slice Of Life
+6|Girls Beyond the Wasteland|0|5|23|4.6|Romance, Slice Of Life
+6|Frame Arms Girl|12|5|23|4.6|Mecha, Sci-Fi, Slice Of Life
+6|Matoi the Sacred Slayer|12|5|23|4.6|Supernatural
+6|Shingu: Secret of the Stellar Wars|0|5|23|4.6|Action, Sci-Fi
+6|THE [email protected] CINDERELLA GIRLS|25|5|22|4.4|Idols, Music, Slice Of Life
+6|The Third: The Girl with the Blue Eye|0|5|22|4.4|Action, Drama, Fantasy, Post-Apocalyptic, Sci-Fi
+6|Undefeated Bahamut Chronicle|0|5|22|4.4|
+6|Hagane Orchestra|12|5|22|4.4|Adventure, Comedy
+6|Long Riders!|12|5|21|4.2|Comedy, Shonen, Slice Of Life, Sports
+6|Doctor's Affairs|0|5|21|4.2|
+6|Unriddle|0|5|20|4.0|Action, Sgdrama, Thriller
+6|Strike Witches: 501st JOINT FIGHTER WING Take Off!|0|5|20|4.0|Comedy, Slice Of Life
+6|High School Entrance Exam|0|5|20|4.0|
+6|The Golden Path|0|5|19|3.8|Family, Sgdrama
+6|Miss Machiko|0|5|19|3.8|Comedy
+6|Lily C.A.T|0|5|18|3.6|Sci-Fi
+6|Key the Metal Idol|0|5|18|3.6|Drama, Idols, Mecha, Sci-Fi
+6|Time Bokan 24|48|5|18|3.6|Action, Comedy, Sci-Fi
+6|The Journey Home|26|5|17|3.4|Adventure, Comedy, Sci-Fi
+6|Ultraman Ginga|0|5|17|3.4|
+6|Fushigi Yugi: Eikoden|0|5|16|3.2|Adventure, Drama, Fantasy, Isekai, Romance, Shojo
+6|NAMUAMIDABUTSU! -UTENA-|12|5|15|3.0|Adventure, Fantasy
+6|Norn9|0|5|14|2.8|Action, Adventure, Historical, Sci-Fi
+6|The World YAMIZUKAN|13|5|13|2.6|Mystery, Supernatural, Thriller
+6|Pilot Candidate|0|5|11|2.2|Action, Adventure, Mecha, Sci-Fi
+6|The Sprites of Floria|1|5|11|2.2|Adventure, Drama, Fantasy
+6|Onimusha: Dawn of Dreams|0|5|8|1.6|Action, Fantasy, Historical, Supernatural
+6|LiSA TV|0|4|20|5.0|Music
+6|Fate/Grand Order -MOONLIGHT/LOSTROOM-|1|4|20|5.0|Fantasy
+6|Ghastly Prince Enma Burning Up|0|4|20|5.0|Action, Comedy, Supernatural
+6|Blue Seed|0|4|20|5.0|Action, Comedy, Romance, Sci-Fi, Supernatural
+6|Elemental Gelade|0|4|20|5.0|Adventure, Comedy, Fantasy, Romance
+6|Full Metal Panic! The Second Raid|0|4|20|5.0|Action, Drama, Mecha, Sci-Fi
+6|CARDFIGHT!! VANGUARD|0|4|20|5.0|Action
+6|Super Gals!|0|4|20|5.0|Comedy, Shojo, Slice Of Life
+6|Tamayura Hitotose|0|4|19|4.75|Comedy, Drama, Slice Of Life
+6|The Perfect Insider (Drama)|0|4|19|4.75|
+6|Gokuaku Ganbo|0|4|19|4.75|
+6|Slam Dunk (Dub)|0|4|19|4.75|Action, Drama, Shonen, Sports
+6|Uchitama?! Have you seen my Tama?|6|4|19|4.75|
+6|Unico In the Island of Magic|0|4|18|4.5|Comedy, Drama, Fantasy
+6|Sea Prince and the Fire Child|0|4|18|4.5|Drama, Fantasy, Romance, Supernatural
+6|A Wind Named Amnesia|0|4|18|4.5|Adventure, Post-Apocalyptic, Sci-Fi
+6|The Legend of Black Heaven|0|4|17|4.25|Action, Adventure, Music, Sci-Fi
+6|Space Pirate Mito|0|4|17|4.25|Action, Adventure, Comedy, Sci-Fi
+6|W'z|13|4|17|4.25|Action, Adventure, Supernatural
+6|The 101st Proposal|0|4|16|4.0|
+6|Ninja Nonsense|0|4|16|4.0|Action, Comedy, Slice Of Life
+6|CLIF|0|4|15|3.75|Action, Sgdrama, Thriller
+6|Onna Nobunaga|0|4|14|3.5|
+6|Phoenix|0|4|14|3.5|Fantasy
+6|Photon the Idiot Adventures|0|4|14|3.5|Action, Adventure, Comedy, Harem, Sci-Fi
+6|100% Teacher Pascal|0|4|13|3.25|Comedy, Slice Of Life
+6|Crunchyroll Collection|0|4|12|3.0|Comedy, Idols
+6|Princess Knight|0|4|12|3.0|Action, Adventure, Drama, Romance, Shojo
+6|Koi Koi Seven|0|4|11|2.75|Comedy, Harem, Romance
+6|EAT-MAN|0|4|11|2.75|Action, Adventure, Sci-Fi
+6|Shinobi Girl|0|4|4|1.0|Action, Martial Arts
+6|Mazinger Edition Z|0|3|15|5.0|Mecha, Sci-Fi
+6|He Was Anime (NFL's Mike Daniels)|0|3|15|5.0|Sports
+6|K|0|3|15|5.0|
+6|Lupin the Third Part 3|0|3|14|4.67|Action, Adventure, Mystery, Seinen
+6|Forget Me Not|0|3|14|4.67|Romance
+6|Investor Z (Motion Manga)|0|3|14|4.67|Drama, Seinen
+6|Toward the Terra|0|3|14|4.67|Drama, Post-Apocalyptic, Sci-Fi, Shonen, Supernatural
+6|Hakata Mentai! Pirikarako-chan|12|3|14|4.67|
+6|22/7 (nanabun no nijyuuni)|6|3|14|4.67|
+6|Giant Gorg|0|3|13|4.33|Action, Mecha, Sci-Fi
+6|Cat's Eye|0|3|12|4.0|Action, Comedy, Mystery, Romance
+6|Fushigi Yugi OVA|0|3|12|4.0|Adventure, Drama, Fantasy, Isekai, Romance, Shojo
+6|Fantastic Adventures of Unico|0|3|12|4.0|Adventure, Fantasy
+6|Makeruna!! Aku no Gundan!|12|3|12|4.0|Comedy, Sci-Fi, Shonen
+6|ARP Backstage Pass|9|3|11|3.67|Idols, Music
+6|The Galaxy Railways: A Letter from the Abandoned Planet|0|3|11|3.67|Adventure, Drama, Fantasy, Sci-Fi
+6|Cardcaptor Sakura: The Movie|0|3|11|3.67|Adventure, Comedy, Magical Girls, Shojo
+6|Vampire Knight|0|3|11|3.67|Shojo, Supernatural
+6|Accel World: Infinite Burst|0|3|10|3.33|Sci-Fi
+6|Super Robot Wars: Original Generation|0|3|10|3.33|Action, Adventure, Mecha, Sci-Fi
+6|Fantastic Detective Labyrinth|0|3|9|3.0|Action, Mystery, Supernatural
+6|Days of Urashimasakatasen|12|3|9|3.0|Comedy
+6|Umi Monogatari|0|3|9|3.0|Comedy, Drama, Fantasy, Magical Girls
+6|Aachi & Ssipak|0|3|9|3.0|Action, Comedy, Sci-Fi
+6|The Ultimatum|0|3|7|2.33|Family, Sgdrama
+6|Onyankopon|12|3|5|1.67|
+6|Space Adventure Cobra|0|2|10|5.0|
+6|SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-|0|2|10|5.0|Idols
+6|Black Jack The Movie|0|2|10|5.0|Adventure, Comedy, Drama, Thriller
+6|Battle Girl High School|12|2|10|5.0|Action, Sci-Fi
+6|Tenchi Muyo! Ryo-Ohki|1|2|10|5.0|
+6|Magic of Stella|12|2|10|5.0|Comedy, Slice Of Life
+6|Banpresto World Figure Colosseum|0|2|10|5.0|Sports
+6|Beyblade: Metal Fusion|0|2|10|5.0|Action, Adventure, Sports
+6|Robot Carnival|0|2|10|5.0|Drama, Fantasy, Post-Apocalyptic, Sci-Fi
+6|Cardcaptor Sakura the Movie 2: The Sealed Card|0|2|10|5.0|Adventure, Comedy, Magical Girls, Shojo
+6|Night on the Galactic Railroad|0|2|9|4.5|Adventure, Drama, Fantasy, Mystery
+6|The Diary of Ochibi (Motion Manga)|0|2|9|4.5|
+6|Strait Jacket|1|2|9|4.5|
+6|Luck & Logic|0|2|9|4.5|Action, Fantasy, Sci-Fi
+6|Happy Life|0|2|9|4.5|
+6|The Wonderful Wizard of Oz|0|2|9|4.5|Adventure, Comedy, Fantasy
+6|Tofugu|0|2|9|4.5|
+6|THE [email protected] Side M|14|2|9|4.5|Idols, Music, Slice Of Life
+6|Pita-Ten|0|2|8|4.0|Comedy, Fantasy, Romance, Slice Of Life, Supernatural
+6|Iida Tokimeki Trip|0|2|8|4.0|
+6|Ringing Bell|0|2|8|4.0|Adventure, Drama, Fantasy
+6|Kizuna AI 1st Live "hello, world"|0|2|8|4.0|
+6|Dancouga: Super Beast Machine God|0|2|8|4.0|Action, Mecha, Sci-Fi
+6|Saint Seiya Hades (EN)|0|2|8|4.0|
+6|The Tenth Prism (Motion Manga)|0|2|8|4.0|Action, Adventure, Drama, Fantasy
+6|The Glass Mask Year 3 Class D|13|2|8|4.0|Comedy, Slice Of Life
+6|Life in Additional Time|0|2|8|4.0|
+6|Action Heroine Cheer Fruits|0|2|7|3.5|Comedy, Seinen, Slice Of Life
+6|Ultra Maniac|0|2|7|3.5|Comedy, Magical Girls, Romance, Shojo
+6|Chiruran 1/2|12|2|7|3.5|Comedy, Slice Of Life
+6|Japa Con Presents: Agent HaZAP|0|2|6|3.0|Music
+6|ORECA BATTLE|0|2|6|3.0|Action, Fantasy, Shonen
+6|PEACE MAKER KUROGANE|1|2|6|3.0|Action, Adventure, Historical, Shonen
+6|THE [email protected] SideM Wakeatte Mini!|12|2|6|3.0|Idols, Music, Slice Of Life
+6|Female Convict Scorpion|0|2|6|3.0|Action, Martial Arts
+6|Dai-Guard|0|2|5|2.5|Sci-Fi
+6|Gasaraki|0|2|5|2.5|Drama, Mecha, Sci-Fi, Supernatural
+6|Soul Link|0|2|4|2.0|Sci-Fi
+6|Shinobi Girl: The Movie|0|2|4|2.0|
+6|DYNAMIC CHORD|12|2|2|1.0|Idols, Music
+6|SHOKU-KING (Motion Manga)|0|1|5|5.0|
+6|Sailor Moon R: The Movie|0|1|5|5.0|Shojo
+6|Katana Maidens ~ Mini Toji|11|1|5|5.0|Action, Comedy
+6|Naruto the Movie: Ninja Clash in the Land of Snow|0|1|5|5.0|Shonen
+6|Naruto the Movie: Legend of the Stone of Gelel|0|1|5|5.0|Shonen
+6|Jungle Emperor Leo|0|1|5|5.0|Adventure, Fantasy
+6|Naruto the Movie: Guardians of the Crescent Moon Kingdom|0|1|5|5.0|Shonen
+6|GoShogun|0|1|5|5.0|Action, Mecha, Sci-Fi
+6|NG Knight Lamune & 40|0|1|5|5.0|Adventure, Comedy, Fantasy, Isekai, Romance
+6|Road To Ninja -Naruto the Movie|0|1|5|5.0|Shonen
+6|The Crunchyroll Anime Awards|0|1|5|5.0|
+6|Gakuen Basara: Samurai High School|0|1|5|5.0|Action, Comedy
+6|Kamen no Maid Guy|0|1|5|5.0|Action, Comedy
+6|EAT-MAN '98|0|1|5|5.0|Action, Adventure, Sci-Fi
+6|Knuspercast|0|1|5|5.0|
+6|Magic User's Club|0|1|5|5.0|Comedy, Romance, Sci-Fi, Supernatural
+6|Steel Fisted Dragon|0|1|5|5.0|Action, Martial Arts
+6|VS Knight Lamune & 40 Fire|0|1|5|5.0|Action, Comedy, Fantasy
+6|Naruto Shippuden the Movie: The Will of Fire|0|1|5|5.0|Shonen
+6|Divine Gate|0|1|4|4.0|Drama, Mystery, Romance
+6|Wooser’s Hand-to-Mouth Life: Phantasmagoric Arc|13|1|4|4.0|Comedy, Slice Of Life
+6|Soul Hunter|0|1|4|4.0|Action, Adventure, Fantasy, Sci-Fi, Shonen
+6|God Mars|0|1|3|3.0|Action, Adventure, Mecha, Sci-Fi
+6|Arcana|0|1|3|3.0|
+6|SNACK WORLD|0|1|2|2.0|
+6|8 Man After|0|1|1|1.0|Action, Sci-Fi, Shonen
+6|Zo Zo Zombie|0|1|1|1.0|
+6|Cosmo Warrior Zero|0|1|1|1.0|Action, Adventure, Sci-Fi
+6|Mischievous Kiss - The Movie|3|0|0|0.0|Romance
+6|K Missing Kings|0|0|0|0.0|
+6|Naruto Shippuden the Movie: Blood Prison|0|0|0|0.0|Shonen
+6|The Adventures of the Little Prince|0|0|0|0.0|Action, Adventure, Drama, Fantasy
+6|Inuyasha the Movie 3: Swords of an Honorable Ruler|0|0|0|0.0|Action, Adventure, Fantasy, Romance
+6|Swan Lake|0|0|0|0.0|Drama, Fantasy, Music, Romance, Shojo
+6|Psybuster|0|0|0|0.0|Adventure, Mecha, Mystery, Post-Apocalyptic, Sci-Fi, Shonen
+6|Crunchyroll Convention Highlights|0|0|0|0.0|
+6|Captain Harlock: Arcadia of my Youth - Endless Orbit SSX|0|0|0|0.0|Action, Adventure, Drama, Sci-Fi
+6|Inuyasha the Movie 2: The Castle Beyond the Looking Glass|0|0|0|0.0|Action, Adventure, Fantasy, Romance
+6|K: Seven Stories|0|0|0|0.0|
+6|The Dragon Lives|0|0|0|0.0|Action, Martial Arts
+6|Inuyasha the Movie:  Affections Touching Across Time|0|0|0|0.0|Action, Adventure, Fantasy, Romance
+6|Naruto Shippuden the Movie: The Lost Tower|0|0|0|0.0|Shonen
+6|Inuyasha the Movie 4: Fire On the Mystic Island|0|0|0|0.0|Action, Adventure, Fantasy, Romance
+6|Space Warrior Baldios|0|0|0|0.0|Action, Adventure, Drama, Mecha, Post-Apocalyptic, Sci-Fi
+6|Captain Harlock: Arcadia of my Youth|0|0|0|0.0|Drama, Sci-Fi
+6|Osomatsu-kun|0|0|0|0.0|Comedy, Shonen, Slice Of Life
+6|Magic User's Club OVA|0|0|0|0.0|Comedy, Romance, Sci-Fi, Supernatural
+6|Izumo: Flash of a Brave Sword|0|0|0|0.0|Action, Adventure

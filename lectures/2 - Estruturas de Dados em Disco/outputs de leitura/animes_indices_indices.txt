@@ -1,0 +1,1256 @@
+NAME|POSICAO|TAMANHO
+Naruto Shippuuden|0|41
+Shugo Chara|41|34
+BLEACH|75|30
+Naruto|105|28
+Skip Beat!|133|53
+REBORN!|186|28
+Gintama|214|30
+La Corda d'Oro ~primo passo~ and ~secondo passo~|244|89
+Eyeshield 21|333|54
+Hayate the Combat Butler! (S1 e S2)|387|56
+Natsume Yuujinchou|443|68
+Myself; Yourself|511|64
+Blue Exorcist|575|34
+Durarara!!|609|31
+Time of Eve|640|31
+Tegami Bachi Letter Bee|671|77
+School Days|748|52
+Sword Art Online|800|43
+The World God Only Knows|843|67
+Demon King Daimao|910|76
+Neo Angelique Abyss|986|63
+Happiness!|1049|53
+Linebarrels of Iron|1102|39
+Beelzebub|1141|57
+Nogizaka Haruka no Himitsu|1198|76
+Chi's Sweet Home - Chi's New Address|1274|69
+Hanasakeru Seishonen|1343|54
+Saki|1397|45
+Slam Dunk|1442|57
+The Tower of DRUAGA -the Aegis of URUK-|1499|85
+Hunter x Hunter|1584|37
+11eyes|1621|38
+Attack on Titan|1659|96
+Koihime Musou|1755|49
+Black Clover|1804|75
+H2O: Footprints in the Sand|1879|75
+BLASSREITER|1954|58
+Another|2012|34
+Glass Mask|2046|36
+The Tower of DRUAGA -the Sword of URUK-|2082|84
+5 Centímetros por Segundo|2166|59
+Dragon Crisis|2225|54
+Inu X Boku Secret Service|2279|45
+The Rising of the Shield Hero|2324|98
+Asura Cryin'|2422|60
+Usagi Drop|2482|57
+07 Ghost|2539|34
+No. 6|2573|41
+SKET Dance|2614|59
+Otome Yokai Zakuro|2673|64
+Lilpri|2737|47
+Squid Girl|2784|50
+Yokuwakaru Gendai Maho|2834|54
+A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi|2888|87
+Occult Academy|2975|56
+Kaasan Mom's Life|3031|57
+Re:ZERO -Starting Life in Another World-|3088|118
+One Piece|3206|64
+A Dark Rabbit has Seven Lives|3270|48
+Kono Aozora ni Yakusoku wo|3318|56
+Fate/Zero|3374|29
+JoJo's Bizarre Adventure|3403|45
+Chihayafuru|3448|31
+My Hero Academia|3479|58
+Your lie in April|3537|66
+Fairy Musketeers|3603|57
+Air Master|3660|33
+Nogizaka Haruka no Himitsu - Purezza -|3693|86
+Hyakko|3779|29
+Is It Wrong to Try to Pick Up Girls in a Dungeon?|3808|110
+DARLING in the FRANXX|3918|77
+Listen to Me, Girls, I’m Your Father!|3995|63
+BORUTO: NARUTO NEXT GENERATIONS|4058|85
+Brave 10|4143|37
+HEROMAN|4180|30
+Food Wars! Shokugeki no Soma|4210|69
+Miracle Train|4279|37
+Kanamemo|4316|47
+Ristorante Paradiso|4363|66
+Black Jack|4429|44
+Hanamaru Kindergarten|4473|71
+Demon Slayer: Kimetsu no Yaiba|4544|76
+GOBLIN SLAYER|4620|58
+Sound of the Sky|4678|90
+Shin Koihime Musou|4768|42
+ERASED|4810|49
+Saint Seiya The Lost Canvas|4859|71
+Oreimo|4930|54
+Puella Magi Madoka Magica|4984|82
+Bodacious Space Pirates|5066|48
+YuruYuri|5114|48
+No Game No Life|5162|75
+Pretty Cure|5237|42
+Akame ga Kill!|5279|66
+RWBY|5345|24
+Gankutsuou|5369|28
+Mysterious Girlfriend X|5397|57
+That Time I Got Reincarnated as a Slime|5454|107
+Sweet Blue Flowers|5561|65
+We, Without Wings - under the innocent sky|5626|74
+Kiseijuu|5700|66
+Kamisama Dolls|5766|67
+NATSU NO ARASHI !|5833|64
+Toradora!|5897|65
+Ano Natsu de Matteru|5962|67
+KILL la KILL|6029|103
+The Ancient Magus' Bride|6132|106
+Mushi-Uta|6238|56
+Fairy Tail|6294|30
+Yuri!!! on ICE|6324|46
+Hourou Musuko Wandering Son|6370|74
+Kuroko's Basketball|6444|44
+Battle Girls - Time Paradox|6488|55
+Fist of the North Star|6543|56
+Level E|6599|25
+RH Plus|6624|47
+Say "I love you."|6671|72
+Log Horizon|6743|71
+Working!|6814|48
+Overlord|6862|75
+Rio Rainbow Gate|6937|34
+Nisemonogatari|6971|100
+HAIKYU!!|7071|56
+My Little Monster|7127|58
+Angel Beats|7185|69
+KONOSUBA -God's blessing on this wonderful world!|7254|116
+Golden Time|7370|67
+Diabolik Lovers|7437|68
+Dr. STONE|7505|94
+Seitokai No Ichizon - Student Councils Discretion|7599|95
+Horizon in the Middle of Nowhere|7694|50
+Berserk|7744|63
+The Place Promised In Our Early Days|7807|76
+Mob Psycho 100|7883|70
+In Another World With My Smartphone|7953|71
+Shin Koihime Musou - Otome Tairan|8024|57
+Un-Go|8081|38
+Yona of the Dawn|8119|83
+GATE|8202|57
+Dragon Ball Super|8259|68
+Anohana: The Flower We Saw That Day|8327|97
+Rascal Does Not Dream of Bunny Girl Senpai|8424|105
+Free! Iwatobi Swim Club|8529|55
+Voices of a Distant Star|8584|89
+ReLIFE|8673|62
+Kids on the Slope|8735|35
+Sailor Moon Crystal|8770|75
+Familiar of Zero F|8845|92
+Isekai Cheat Magician|8937|65
+The Irregular at Magic High School|9002|90
+Mashiroiro Symphony|9092|58
+THE PROMISED NEVERLAND|9150|116
+Miss Kobayashi's Dragon Maid|9266|86
+Hiiro no Kakera|9352|49
+You and Me|9401|42
+Rokka no Yuusha|9443|79
+The Prince of Tennis II|9522|48
+Saga of Tanya the Evil|9570|79
+Aldnoah.Zero|9649|59
+Recorder and Randsell|9708|61
+My Love Story!!|9769|71
+Natsume Yuujinchou 4|9840|68
+Dusk Maiden of Amnesia|9908|70
+Charlotte|9978|50
+Star Driver|10028|35
+How Not to Summon a Demon Lord|10063|80
+NARUTO Spin-Off: Rock Lee & His Ninja Pals|10143|60
+Plastic Memories|10203|57
+Nyarko-san: Another Crawling Chaos|10260|68
+Galaxy Express 999|10328|35
+The Pet Girl of Sakurasou|10363|73
+Death March to the Parallel World Rhapsody|10436|118
+Demonbane|10554|31
+Mizu no Kotoba|10585|37
+White Album|10622|64
+The Idol Master|10686|38
+Space Brothers|10724|61
+From The New World|10785|92
+Gurren Lagann|10877|78
+Fullmetal Alchemist: Brotherhood|10955|102
+citrus|11057|39
+Black Bullet|11096|72
+Gargantia on the Verdurous Planet|11168|100
+Twin Star Exorcists|11268|95
+Moritasan wa Mukuchi|11363|52
+The Asterisk War|11415|76
+Recovery of a MMO Junkie|11491|80
+Tsuritama|11571|49
+Web Ghosts PiPoPa|11620|83
+My Teen Romantic Comedy SNAFU|11703|84
+Fate/stay night [Unlimited Blade Works]|11787|94
+Magi|11881|57
+Classroom of the Elite|11938|79
+TERRAFORMARS|12017|62
+Nisekoi|12079|64
+Cat God|12143|61
+Poyopoyo|12204|48
+MONSTER MUSUME EVERYDAY LIFE WITH MONSTER GIRLS|12252|88
+Ramen Fighter Miki|12340|49
+World Trigger|12389|77
+Wise Man's Grandchild|12466|81
+Bungo Stray Dogs|12547|90
+Nagi no Asukara (Nagi-Asu: A Lull in the Sea)|12637|101
+Kokoro Connect|12738|62
+GAMERS!|12800|55
+Monthly Girls' Nozaki-kun|12855|58
+Captain Harlock|12913|46
+Beyond the Boundary|12959|73
+Orange|13032|60
+Yonna in the Solitary Fortress|13092|65
+AMNESIA|13157|46
+Chance Pop Session|13203|41
+Akashic Records of Bastard Magic Instructor|13244|86
+MEGALOBOX|13330|49
+The Melody of Oblivion|13379|68
+STRIKE THE BLOOD|13447|69
+Canvas 2: Niji Iro no Sketch|13516|51
+A Place Further Than the Universe|13567|83
+King's Game|13650|67
+Keijo!!!!!!!!|13717|45
+Polar Bear Cafe|13762|55
+Mobile Suit GUNDAM Iron Blooded Orphans|13817|79
+Upotte!!|13896|40
+Blast of Tempest|13936|77
+Yamada-kun and the Seven Witches|14013|118
+Lady Death|14131|47
+WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~|14178|125
+KIZNAIVER|14303|49
+Kite Liberator|14352|37
+The Master of Ragnarok & Blesser of Einherjar|14389|95
+Love Live!|14484|63
+Tono to Issho|14547|48
+Domestic Girlfriend|14595|50
+Record of Grancrest War|14645|72
+JUNI TAISEN: ZODIAC WAR|14717|78
+Love Stage!!|14795|52
+KAGUYA-SAMA: LOVE IS WAR|14847|65
+Leiji Matsumoto's OZMA|14912|39
+Medaka Box|14951|34
+TRINITY SEVEN|14985|92
+Fire Force|15077|55
+Eromanga Sensei|15132|47
+Himouto! Umaru-chan|15179|58
+Ace of the Diamond|15237|66
+School-Live!|15303|95
+BTOOOM!|15398|62
+High School Prodigies Have It Easy Even In Another World|15460|108
+Digimon Adventure tri.|15568|64
+Kimi ni Todoke - From Me To You|15632|53
+Tsukigakirei|15685|59
+Masamune-kun's Revenge|15744|62
+Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?|15806|76
+Kotoura-san|15882|65
+Sword Art Online Alternative: Gun Gale Online|15947|103
+ZOMBIE LAND SAGA|16050|74
+I Can't Understand What My Husband Is Saying|16124|100
+My Mental Choices are Completely Interfering with my School Romantic Comedy|16224|130
+Total Eclipse|16354|55
+ASSASSINS PRIDE|16409|48
+Os Cavaleiros do Zodíaco - Ômega|16457|52
+Hundred|16509|72
+My First Girlfriend is a Gal|16581|83
+Laid-Back Camp|16664|64
+NEW GAME!|16728|47
+Restaurant to Another World|16775|90
+Cells at Work!|16865|38
+Knight’s & Magic|16903|76
+Cowboy Bebop|16979|50
+The World is Still Beautiful|17029|80
+Wolf Girl and Black Prince|17109|81
+Run with the Wind|17190|71
+Angels of Death|17261|40
+Mushishi|17301|81
+Uta no Prince Sama|17382|64
+Problem Children are Coming from Another World, aren't they?|17446|108
+Alderamin on the Sky|17554|71
+Arpeggio of Blue Steel|17625|79
+Blue Spring Ride|17704|55
+91 Days|17759|58
+RADIANT|17817|59
+Magical Warfare|17876|47
+Fruits Basket|17923|79
+Phantom Thief Reinya|18002|43
+The Fruit of Grisaia|18045|62
+GOD EATER|18107|58
+Welcome to Demon School! Iruma-kun|18165|72
+Kamigami no Asobi|18237|63
+The Quintessential Quintuplets|18300|85
+GIRLS und PANZER|18385|61
+Maoyu|18446|50
+WorldEnd: What do you do at the end of the world? Are you busy? Will you save us|18496|137
+GLASSLIP|18633|55
+Rozen Maiden Zurückspulen|18688|71
+Witch Craft Works|18759|72
+Flowers of Evil|18831|65
+given|18896|44
+KARAKAI JOZU NO TAKAGI-SAN|18940|74
+Interviews with Monster Girls|19014|90
+Sunday Without God|19104|102
+The Lost Village|19206|73
+Taboo Tattoo|19279|53
+March comes in like a lion|19332|58
+HINAMATSURI|19390|71
+Haven’t You Heard? I’m Sakamoto|19461|82
+The Ambition of Oda Nobuna|19543|71
+BLEND-S|19614|46
+Didn't I say to make my abilities average in the next life|19660|99
+Tonari no Seki-kun: The Master of Killing Time|19759|101
+Magical Girl Raising Project|19860|75
+MEKAKUCITY ACTORS|19935|65
+ORESUKI Are you the only one who loves me?|20000|67
+Sound! Euphonium|20067|70
+Ushio and Tora|20137|80
+Flying Witch|20217|82
+Campione!|20299|50
+Brynhildr in the Darkness|20349|83
+Blade and Soul|20432|58
+Silver Spoon|20490|68
+You and Me 2|20558|43
+Kino no Tabi -the Beautiful World- the Animated Series|20601|137
+Bakemonogatari|20738|90
+DRAMAtical Murder|20828|65
+Ace Attorney|20893|52
+Yowamushi Pedal|20945|62
+Biyou Shounen Celebrity|21007|54
+If It's for My Daughter, I'd Even Defeat a Demon Lord|21061|93
+Tsuredure Children|21154|81
+Fuuka|21235|51
+Phi Brain|21286|26
+One-Punch Man|21312|53
+World Break: Aria of Curse for a Holy Swordsman|21365|103
+Non Non Biyori|21468|61
+Kiss Him, Not Me|21529|63
+A Sister's All You Need.|21592|86
+PUNCH LINE|21678|64
+Sengoku Collection (Parallel World Samurai)|21742|88
+SHELTER|21830|73
+sweetness & lightning|21903|74
+Peeping Life|21977|50
+Asobi Asobase - workshop of fun -|22027|72
+Myriad Colors Phantom World|22099|67
+Ascendance of a Bookworm|22166|68
+Saekano -How to Raise a Boring Girlfriend-|22234|104
+Tanaka-kun is Always Listless|22338|76
+How to Keep a Mummy|22414|72
+Love Tyrant|22486|74
+Drifters|22560|67
+SHIROBAKO|22627|27
+Digimon Xros Wars - The Young Hunters Who Leapt Through Time|22654|77
+Izetta: The Last Witch|22731|97
+La storia della Arcana Famiglia|22828|48
+My Roommate is a Cat|22876|66
+Magical Play|22942|42
+White Album 2|22984|80
+GA Geijutsuka Art Design Class|23064|76
+Beautiful Bones -Sakurako's Investigation-|23140|84
+Pop Team Epic|23224|45
+Love, Chunibyo & Other Delusions|23269|86
+AHO-GIRL|23355|47
+Spiritpact|23402|74
+Showa Genroku Rakugo Shinju|23476|71
+HENNEKO - The Hentai Prince and the Stony Cat -|23547|92
+Noblesse: Awakening|23639|66
+Cute High Earth Defense Club LOVE!|23705|73
+Twin Angel: Twinkle Paradise|23778|58
+Samurai Flamenco|23836|70
+KADO: The Right Answer|23906|61
+Hakkenden: Eight Dogs of the East|23967|87
+Sherlock Hound|24054|57
+Chaika - The Coffin Princess-|24111|87
+Ixion Saga DT|24198|46
+A Certain Magical Index|24244|64
+Rozen Maiden|24308|57
+Kakuriyo -Bed & Breakfast for Spirits-|24365|83
+Infinite Stratos|24448|70
+BIG ORDER|24518|77
+NANBAKA|24595|46
+Gabriel DropOut|24641|76
+Natsuyuki Rendezvous|24717|57
+Rurouni Kenshin|24774|77
+Anti-Magic Academy: The 35th Test Platoon|24851|81
+Gatchaman Crowds|24932|47
+Schwarzes Marken|24979|91
+Bladedance of Elementalers|25070|82
+Saki Episode of Side A|25152|60
+Valerian and Laureline|25212|71
+Fox Spirit Matchmaker|25283|62
+Hand Shakers|25345|43
+Case Closed|25388|62
+Oreshura|25450|61
+Conception|25511|77
+Thunderbolt Fantasy|25588|69
+Yamishibai|25657|58
+gen:LOCK|25715|44
+Folktales from Japan|25759|48
+DAKAICHI -I'm being harassed by the sexiest man of the year-|25807|83
+Bloodivores|25890|48
+Humanity Has Declined|25938|44
+Hamatora|25982|69
+The Silver Guardian|26051|80
+Go Lion|26131|55
+Tari Tari|26186|52
+Dog & Scissors|26238|51
+GTO - The Animation|26289|72
+Dog Days|26361|38
+Death Note (Drama)|26399|35
+Ulysses: Jeanne d'Arc and the Alchemist Knight|26434|90
+Mr. Osomatsu|26524|50
+One Week Friends|26574|61
+Love, Chunibyo & Other Delusions - Heart Throb -|26635|101
+When Supernatural Battles Became Commonplace|26736|120
+PERSONA5 the Animation|26856|78
+FLIP FLAPPERS|26934|71
+Keep Your Hands Off Eizouken!|27005|85
+We Never Learn: BOKUBEN|27090|85
+Interlude|27175|32
+Love is Like a Cocktail|27207|78
+Fate/kaleid liner PRISMA ILLYA|27285|91
+Majestic Prince|27376|52
+Hitori No Shita - The Outcast|27428|66
+School Babysitters|27494|69
+Aoharu x Machinegun|27563|56
+Orenchi no Furo Jijo|27619|83
+The Kawai Complex Guide to Manors and Hostel Behavior|27702|107
+In/Spectre|27809|91
+BLACKFOX|27900|38
+Naked Wolves|27938|41
+Barakamon|27979|54
+Nobunaga Concerto|28033|80
+PandoraHearts|28113|81
+Blood Blockade Battlefront|28194|78
+Is the Order a Rabbit?|28272|60
+Golden Kamuy|28332|97
+Os Cavaleiros do Zodíaco - Saintia Sho|28429|87
+Servant x Service|28516|71
+Hakata Tonkotsu Ramens|28587|61
+Steins;Gate 0|28648|79
+Kyousougiga|28727|80
+Magical Sempai|28807|37
+Actually, I Am|28844|59
+AKB0048|28903|79
+Senyu.|28982|54
+Jingai-san no Yome|29036|65
+Cardcaptor Sakura|29101|74
+Sarazanmai|29175|65
+Outbreak Company|29240|90
+Little Busters!|29330|59
+GRANBLUE FANTASY: The Animation|29389|66
+She and Her Cat -Everything Flows-|29455|87
+Sakura Trick|29542|58
+The Comic Artist and His Assistants|29600|88
+Elegant Yokai Apartment Life|29688|88
+SPACE PATROL LULUCO|29776|75
+Nobunaga the Fool|29851|54
+Broken Blade|29905|84
+The Royal Tutor|29989|73
+The Perfect Insider|30062|76
+The Helpful Fox Senko-san|30138|76
+Mischievous Kiss - Love in Tokyo|30214|49
+YUKI YUNA IS A HERO|30263|83
+ISLAND|30346|51
+A Centaur's Life|30397|80
+THE UNLIMITED Hyobu Kyosuke|30477|83
+Engaged to the Unidentified|30560|73
+Why the hell are you here, Teacher!?|30633|75
+Vividred Operation|30708|55
+Hinomaru Sumo|30763|52
+Legend of the Galactic Heroes: Die Neue These|30815|83
+KanColle|30898|38
+World Conquest Zvezda Plot|30936|93
+DEVIL SURVIVOR 2 THE ANIMATION|31029|66
+Mushibugyo|31095|65
+Kemono Friends|31160|75
+ARGEVOLLEN|31235|48
+Dies irae|31283|53
+Hozuki's Coolheadedness|31336|103
+Kaiji|31439|22
+BONJOUR Sweet Love Patisserie|31461|74
+JOKER GAME|31535|79
+Netsuzou Trap -NTR-|31614|72
+EVIL OR LIVE|31686|52
+Cerberus|31738|51
+Bananya|31789|45
+Sin The Movie|31834|49
+Utawarerumono The False Faces|31883|86
+Cardcaptor Sakura: Clear Card|31969|84
+DENKI-GAI|32053|47
+Please tell me! Galko-chan|32100|64
+Nanana's Buried Treasure|32164|61
+OneRoom|32225|53
+Triage X|32278|39
+Sabagebu!|32317|63
+ACCA: 13-Territory Inspection Dept.|32380|95
+Amagi Brilliant Park|32475|57
+AOKANA: Four Rhythm Across the Blue|32532|81
+Persona4 the Golden ANIMATION|32613|107
+Chain Chronicle - The Light of Haecceitas -|32720|86
+Skull-face Bookseller Honda-san|32806|76
+Nobunagun|32882|48
+Occultic;Nine|32930|60
+Super Sonico - The Animation|32990|71
+Sakura Quest|33061|28
+Umamusume: Pretty Derby|33089|75
+Magical Girl Ore|33164|57
+HANEBADO!|33221|47
+Junji Ito Collection|33268|92
+Himegoto|33360|53
+Rail Wars!|33413|39
+Boogiepop and Others|33452|66
+Os Cavaleiros do Zodíaco - Alma de Ouro|33518|98
+To the Abandoned Sacred Beasts|33616|101
+The Morose Mononokean|33717|80
+Qualidea Code|33797|50
+makuranodanshi|33847|31
+Clockwork Planet|33878|48
+SENGOKU NIGHT BLOOD|33926|117
+Somali and the Forest Spirit|34043|70
+The Eccentric Family|34113|87
+Gugure! Kokkuri-san|34200|71
+Yu-Gi-Oh! VRAINS|34271|56
+Phantasy Star Online 2 The Animation|34327|87
+ISUCA|34414|59
+HaNaYaMaTa|34473|56
+MYSTERIA Friends|34529|55
+BBK/BRNK|34584|53
+Happy Boys|34637|49
+Monogatari S2|34686|90
+DAYS|34776|34
+Rewrite|34810|55
+Hitoribocchi no Marumaruseikatsu|34865|78
+Wakakozake|34943|56
+Love Lab|34999|40
+Yurumates3Dei|35039|51
+GJ CLUB|35090|51
+Classroom Crisis|35141|55
+Kenka Bancho Otome -Girl Beats Boys-|35196|82
+Wizard Barristers|35278|72
+The Price of Smiles|35350|73
+KONOHANA KITAN|35423|69
+Gingitsune: Messenger Fox of the Gods|35492|80
+Inferno Cop|35572|64
+The Highschool Life of a Fudanshi|35636|77
+Lance N' Masques|35713|48
+Alice & Zoroku|35761|84
+To Be Heroine|35845|57
+Captain Earth|35902|60
+Walkure Romanze|35962|69
+Poco's Udon World|36031|71
+ISEKAI QUARTET|36102|52
+Ao-chan Can't Study!|36154|52
+SSSS.GRIDMAN|36206|56
+The Ryuo's Work is Never Done!|36262|47
+Diabolik Lovers II MORE,BLOOD|36309|81
+Arata the Legend|36390|75
+Comet Lucifer|36465|37
+Active Raid|36502|49
+Dai-Shogun - Great Revolution|36551|86
+WWW.Working!!|36637|66
+Are You Lost?|36703|35
+Kanojo ga Flag wo Oraretara (If Her Flag Breaks)|36738|102
+Gakuen Handsome|36840|68
+Toriko|36908|50
+The Pilot's Love Song|36958|71
+Makai Ouji: Devils and Realist|37029|66
+As Miss Beelzebub Likes it.|37095|83
+Ms. Koizumi-san Loves Ramen Noodles|37178|73
+Kamisama Hajimemashita|37251|67
+Ghost Stories|37318|49
+Gourmet Girl Graffiti|37367|66
+INVADERS of the ROKUJYOMA!?|37433|80
+Kabaneri of the Iron Fortress|37513|94
+Tsugumomo|37607|69
+Break Ups|37676|54
+Japanese Anime Classic Collection|37730|54
+Galaxy High School|37784|40
+Mononoke|37824|63
+Tsurune|37887|52
+Ms. Vampire who lives in my neighborhood.|37939|93
+Science Fell in Love, So I Tried to Prove it|38032|91
+Anime Crimes Division|38123|66
+Midnight occult civil servants|38189|59
+Unlimited Fafnir|38248|77
+Basilisk : The Ouka Ninja Scrolls|38325|101
+Ping Pong the Animation|38426|53
+Planet With|38479|72
+Wake Up, Girls!|38551|66
+Isekai Izakaya: Japanese Food From Another World|38617|95
+High School Fleet|38712|48
+Holmes of Kyoto|38760|70
+Lord Marksman and Vanadis|38830|95
+RIN-NE|38925|76
+Ahiru no Sora|39001|44
+The Severing Crime Edge|39045|62
+Seton Academy: Join the Pack!|39107|51
+Magical Girl Spec-Ops Asuka|39158|59
+Lovely Muuuuuuuco!|39217|56
+UzaMaid!|39273|54
+Convenience Store Boy Friends|39327|68
+Tokyo Ghoul: re|39395|31
+Love Live! Sunshine!!|39426|80
+GARO -VANISHING LINE-|39506|75
+Yu-Gi-Oh!|39581|73
+18if|39654|41
+Anifile|39695|23
+Black Butler: Book of Circus|39718|82
+A Certain Scientific Railgun|39800|58
+AIURA|39858|42
+Comic Girls|39900|49
+Owarimonogatari|39949|93
+Symphogear|40042|66
+Ojisan and Marshmallow|40108|69
+Teekyu|40177|61
+Girly Air Force|40238|46
+IDOLiSH7|40284|37
+YUYUSHIKI|40321|46
+Kaede New Town|40367|60
+Full Metal Panic! Invisible Victory|40427|78
+A Certain Scientific Accelerator|40505|63
+This Art Club Has a Problem!|40568|73
+gdgd Fairies|40641|29
+Onee-chan ga Kita|40670|55
+The Reflection|40725|56
+The Garden of Sinners|40781|83
+Chitose Get You!|40864|54
+Katana Maidens ~ Toji No Miko|40918|75
+Miss Monochrome - The Animation|40993|84
+Ai-Mai-Mi|41077|47
+Ange Vierge|41124|62
+Akagi|41186|37
+KINMOZA!|41223|45
+Cuticle Detective Inaba|41268|39
+I've Always Liked You|41307|66
+Photo Kano|41373|48
+Chivalry of a Failed Knight|41421|75
+Magic Kaito 1412|41496|58
+This Boy is a Professional Wizard|41554|76
+My Sweet Tyrant|41630|46
+YU-NO: A Girl Who Chants Love at the Bound of This World|41676|106
+ALL OUT!!|41782|47
+TO BE HERO|41829|64
+Our love has always been 10 centimeters apart.|41893|75
+Hayate the Combat Butler!|41968|87
+Clean Freak! Aoyama kun|42055|69
+RErideD - Derrida, who leaps through time|42124|105
+Natsume Yuujinchou 6|42229|80
+MOBILE SUIT GUNDAM 00|42309|58
+WATATEN!: an Angel Flew Down to Me|42367|72
+Sanrio Boys|42439|56
+Magimoji Rurumo|42495|52
+Hakuoki Reimeiroku|42547|35
+Day Break Illusion|42582|65
+Celestial Method|42647|55
+Yuuna and the Haunted Hot Springs|42702|85
+Katsugeki TOUKEN RANBU|42787|66
+Room Mate|42853|54
+Today's Menu for the Emiya Family|42907|71
+Angolmois: Record of Mongol Invasion|42978|71
+GeGeGe no Kitaro|43049|89
+Fastest Finger First|43138|59
+MEGANEBU!|43197|46
+Komori-san Can't Decline!|43243|63
+Joshi Kausei|43306|50
+Darwin's Game|43356|29
+Chio's School Road|43385|55
+Date A Live|43440|81
+Amanchu!|43521|46
+Fan Service|43567|27
+Holy Knight|43594|69
+Time Taxi|43663|25
+GTO|43688|25
+Nyanko Days|43713|49
+How clumsy you are, Miss Ueno.|43762|70
+Hakuoki Season 1|43832|32
+Anne-Happy|43864|48
+GRANBELM|43912|30
+Garakowa -Restore the World-|43942|57
+MOBILE SUIT GUNDAM UNICORN RE:0096|43999|72
+Trickster|44071|25
+Star Blazers: Space Battleship Yamato|44096|52
+Utakoi|44148|49
+Nobunaga Concerto (Drama)|44197|41
+Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note|44238|104
+Harukana Receive|44342|46
+DOUBLE DECKER! DOUG & KIRILL|44388|73
+Fafner Exodus|44461|62
+Children of Ether|44523|58
+Fate/Grand Order - First Order|44581|75
+URAHARA|44656|72
+Sparrow's Hotel|44728|69
+Dances with the Dragons|44797|53
+BROTHERHOOD FINAL FANTASY XV|44850|66
+Young Black Jack|44916|68
+Meiji Tokyo Renka|44984|73
+Galilei Donna|45057|71
+Momo Kyun Sword|45128|58
+Love To-LIE-Angle|45186|49
+CHRONOS RULER|45235|52
+Yotsuiro Biyori|45287|52
+The Familiar of Zero|45339|67
+Fushigi Yugi|45406|77
+Comical Psychosomatic Medicine|45483|68
+Brave Witches|45551|44
+Caligula|45595|39
+Frankenstein Family|45634|56
+Between the Sky and Sea|45690|71
+Natsume Yuujinchou 5|45761|81
+Eureka Seven|45842|68
+BanG Dream!|45910|41
+Stella Women’s Academy, High School Division Class C3|45951|123
+Dagashi Kashi|46074|59
+Mobile Suit Gundam Seed|46133|61
+Akiba's Trip The Animation|46194|70
+Mobile Suit Gundam Wing|46264|60
+Danchigai|46324|46
+Wish Upon the Pleiades|46370|84
+Strange+|46454|48
+Gunslinger Stratos THE ANIMATION|46502|63
+La corda d’oro -Blue Sky-|46565|85
+HAKYU HOSHIN ENGI|46650|73
+Try Knights|46723|55
+Muromi-san|46778|53
+SAIYUKI RELOAD BLAST|46831|84
+Zatch Bell!|46915|69
+Re:ZERO -Starting Life in Another World- SHORTS|46984|130
+Hinako Note|47114|49
+The File of Young Kindaichi Returns|47163|100
+Absolute Duo|47263|52
+Zettai Boei Leviatan|47315|86
+Fist of the Blue Sky: Regenesis|47401|72
+Monster Strike|47473|46
+Grimms Notes the Animation|47519|68
+Last Cinderella|47587|31
+Junjo Romantica|47618|45
+Yu-Gi-Oh! 5D's|47663|75
+Daily Lives of High School Boys|47738|68
+Little Nemo: Adventures in Slumberland|47806|72
+A Lull in the Sea (Nagi-Asu: Nagi no Asukara)|47878|84
+Moyashimon|47962|47
+Boku-no-imoutowa"Osaka-okan"|48009|65
+Seiren|48074|44
+Cheating Craft|48118|43
+Os Cavaleiros do Zodíaco|48161|43
+Mischievous Kiss 2 - Love in Okinawa|48204|53
+Wakakozake (Drama)|48257|37
+Inugami-san to Nekoyama-san|48294|59
+ETOTAMA|48353|52
+True Cooking Master Boy|48405|45
+Xuan Yuan Sword Luminary|48450|91
+B-PROJECT|48541|38
+Fan Chronicles: Um Documentário Crunchyroll|48579|59
+Senryu Girl|48638|49
+Full Metal Panic!|48687|69
+Lovely Complex|48756|45
+Anohana: The Flower We Saw That Day (Drama)|48801|59
+Anime de Training! Ex|48860|58
+CHAOS;CHILD|48918|44
+Code: Realize ~Guardian of Rebirth~|48962|74
+Phantom in the Twilight|49036|86
+Soul Buster|49122|65
+Arakawa Under the Bridge|49187|55
+Death Note|49242|48
+Locodol|49290|59
+Encouragement Of Climb|49349|67
+BAKUON!!|49416|46
+The Magnificent KOTOBUKI|49462|57
+Angel's 3Piece!|49519|59
+A Destructive God Sits Next to Me|49578|70
+R.O.D.|49648|51
+Scorching Ping Pong Girls|49699|79
+Yu-Gi-Oh! GX|49778|76
+Switch Girl!!|49854|34
+Future Diary: Another World|49888|42
+momokuri|49930|39
+The Laughing Salesman|49969|76
+Pan de Peace!|50045|50
+Straight Title Robot Anime|50095|56
+Antiquarian Bookshop Biblia's Case Files|50151|56
+Black Clover (Dublagens Internacionais)|50207|98
+Yu-Gi-Oh! ARC-V|50305|71
+Liar Game|50376|25
+Yowamushi Pedal New Generation|50401|76
+Blade Runner Black Out 2022|50477|57
+Yakitate!! Japan|50534|54
+PERSONA5 the Animation -THE DAY BREAKERS-|50588|95
+Bokurano|50683|43
+Re-Kan!|50726|28
+The Moment You Fall in Love|50754|71
+Lychee Light Club|50825|54
+ARIA The ANIMATION|50879|55
+MAGICAL CIRCLE GURU-GURU|50934|75
+Ultraman Orb|51009|29
+Dororo Motion Magazine|51038|69
+Mr. TONEGAWA Middle Management Blues|51107|74
+Fate/Grand Order Absolute Demonic Front: Babylonia|51181|81
+Slow Start|51262|47
+Hell Girl: Fourth Twilight|51309|61
+Astro Boy Motion Magazine|51370|40
+Merc StoriA: The Apathetic Boy and the Girl in a Bottle|51410|78
+Fantasista Doll|51488|76
+Takamiya Nasuno Desu!|51564|65
+Aooni The Blue Monster|51629|68
+Maerchen Maedchen|51697|54
+JK-Meshi!|51751|46
+The Tatami Galaxy|51797|33
+Tonkatsu DJ Agetaro|51830|71
+Anime-Gataris|51901|50
+Riddle Story of Devil|51951|49
+Phoenix Motion Magazine|52000|38
+Gonna Be the Twin-Tail!!|52038|70
+Tokyo ESP|52108|38
+Lord of Vermilion: The Crimson King|52146|66
+The Twelve Kingdoms|52212|72
+Gurazeni: Money Pitch|52284|66
+Genshiken|52350|53
+Ooya-san wa Shishunki!|52403|59
+Girlish number|52462|57
+Future Card Buddyfight|52519|58
+Rowdy Sumo Wrestler Matsutaro|52577|74
+Sekko Boys|52651|61
+elDLIVE|52712|40
+Lostorage incited WIXOSS|52752|62
+Military!|52814|30
+Last Period: the journey to the end of the despair|52844|100
+Mahou Shoujo? Naria Girls|52944|63
+Schoolgirl Strikers|53007|77
+FOREST FAIRY FIVE|53084|39
+Hero|53123|19
+My Bride is a Mermaid|53142|37
+KAGEWANI|53179|49
+Gifu Dodo!! Kanetsugu and Keiji|53228|65
+VOICE OF FOX|53293|55
+Starlight Promises|53348|68
+DearS|53416|50
+Mahou Shoujo Nante Mouiidesukara|53466|63
+Hakone-chan|53529|61
+LUPIN THE 3rd PART4|53590|69
+Muhyo & Roji's Bureau of Supernatural Investigation|53659|88
+Magic-Kyun! Renaissance|53747|66
+Wakaba Girl|53813|47
+A Town Where You Live|53860|58
+Libra of Nil Admirari|53918|56
+Samurai Warriors|53974|59
+FLCL|54033|56
+Monster Hunter Stories Ride On|54089|63
+Fight League: Gear Gadget Generators|54152|73
+HIMOTE HOUSE: A share house of super psychic girls|54225|72
+The Irresponsible Galaxy Tylor|54297|71
+LUPIN THE 3rd PART 5|54368|70
+The Case Files of Jeweler Richard|54438|77
+Champion Joe 2|54515|51
+Please Teacher!|54566|60
+Samurai Jam-Bakumatsu Rock|54626|97
+Gangsta.|54723|44
+DD Fist of the North Star|54767|79
+Blue Submarine No. 6|54846|56
+Mangirl!|54902|38
+RWBY VOLUME 1-3: The Beginning|54940|87
+Majin Bone|55027|57
+Pikotaro no LULLABY LA LA BY|55084|65
+ENDRO!|55149|44
+MOBILE SUIT GUNDAM THE ORIGIN Advent of the Red Comet|55193|90
+MAJOR 2nd|55283|39
+Anima Yell!|55322|56
+Hi-sCool! Seha Girls|55378|57
+The Princess and the Pilot|55435|74
+Crunchycast|55509|26
+Z/X IGNITION|55535|61
+Yu-Gi-Oh! ZEXAL|55596|74
+Hackadoll THE ANIMATION|55670|45
+Gundam Build Divers|55715|71
+Onara Goro|55786|47
+VIRTUALSAN - LOOKING|55833|42
+Wagamama High Spec|55875|55
+Taisho Mebiusline Chicchaisan|55930|80
+Outlaw Star|56010|26
+Ninja Girl & Samurai Master|56036|80
+Tiger Mask W|56116|57
+JOKER|56173|54
+Donyatsu|56227|48
+Tribe Cool Crew|56275|68
+Kyo Kara Maoh|56343|82
+Cardfight!! Vanguard Asia Circuit (Season 2)|56425|59
+AMAZING STRANGER|56484|47
+Fullmetal Alchemist: The Conqueror of Shamballa|56531|102
+Yatogame-chan Kansatsu Nikki|56633|72
+Mobile Suit Gundam Seed Destiny|56705|67
+Squishy! Black Clover|56772|66
+The Eccentric Family 2|56838|89
+Yurikuma Arashi|56927|83
+Traveling Daru|57010|61
+Mitchiri Neko|57071|50
+Asteroid in Love|57121|62
+Ultraman X|57183|26
+Cardfight!! Vanguard Link Joker (Season 3)|57209|63
+The Dragon Dentist|57272|73
+Touken Ranbu - Hanamaru|57345|95
+Tesagure! Bukatsumono|57440|58
+Crossing Time|57498|59
+Peeping Life TV Season 1??|57557|47
+Nurse Witch KOMUGI R|57604|58
+Cardfight!! Vanguard G|57662|58
+You Don't Know Gunma Yet|57720|71
+OZMAFIA!!|57791|63
+HEYBOT!|57854|37
+Anime Academy|57891|28
+Library War|57919|41
+MIX|57960|32
+Crazy For Me|57992|33
+Space Battleship Tiramisu|58025|84
+Os Cavaleiros do Zodíaco - Saga de Hades|58109|57
+Tabimachi Lateshow|58166|61
+IRYU - Team Medical Dragon|58227|41
+Deltora Quest|58268|46
+Wooser's Hand-to-Mouth Life|58314|64
+Girl Friend BETA|58378|54
+World Fool News|58432|52
+Love Rice|58484|46
+Tenjho Tenge|58530|55
+Kaiba|58585|61
+BONO BONO|58646|47
+Hikaru no Go|58693|42
+MARGINAL #4 the Animation|58735|60
+Miss Bernard said.|58795|55
+Cinderella Nine|58850|59
+Gunbuster 2|58909|54
+Koro Sensei Quest!|58963|56
+Nyanbo!|59019|37
+Null & Peta|59056|48
+Ceres, Celestial Legend|59104|66
+Sorcery in the Big City|59170|87
+DREAM FESTIVAL!|59257|50
+Tantei Team KZ Jiken Note|59307|48
+Butlers X Battlers|59355|54
+This Boy Suffers from Crystallization|59409|75
+Milpom|59484|27
+Urawa no Usagi-chan|59511|56
+BAKUMATSU|59567|31
+Dr. Coto's Clinic|59598|31
+Detective vs Detectives|59629|37
+Samurai Troopers|59666|98
+Gundam Build Fighters|59764|73
+Cromartie High School|59837|50
+Oda Cinnamon Nobunaga|59887|43
+Mobile Fighter G Gundam|59930|60
+Magia Record: Puella Magi Madoka Magica Side Story|59990|73
+Starmyu|60063|58
+ROOM CAMP|60121|46
+Akagi (Drama)|60167|29
+KING OF PRISM -Shiny Seven Stars-|60196|69
+Robot Girls Z|60265|58
+Piacevole|60323|46
+Our Home's Fox Deity|60369|86
+ClassicaLoid|60455|49
+Magical Somera-chan|60504|41
+NINJA SLAYER FROM ANIMATION|60545|72
+DEMIAN|60617|42
+PES: Peace Eco Smile|60659|34
+TWOCAR|60693|44
+Wonder Momo|60737|62
+Call to Cosplay|60799|29
+A Talk on Titan|60828|30
+We Rent Tsukumogami|60858|83
+Why Did You Come to Japan?|60941|40
+Flame of Recca|60981|67
+Book Girl|61048|46
+Hard To Say I Love You|61094|36
+Princess Nine|61130|48
+Bludgeoning Angel Dokuro-chan|61178|73
+Full Metal Panic? Fumoffu|61251|75
+Jin Roh|61326|53
+Hina Logic - from Luck & Logic|61379|68
+Da Capo III|61447|55
+DRAGON COLLECTION|61502|57
+ANISAVA|61559|42
+Minami Kamakura High School Girls Cycling Club|61601|82
+Ebiten|61683|41
+Zombie Loan|61724|64
+A Taste of Honey|61788|30
+Inuyasha|61818|56
+Samurai Pizza Cats|61874|74
+Wild Mom|61948|22
+Galileo|61970|21
+Digimon Universe App Monsters|61991|58
+Always the Two of Us|62049|34
+Looking Up at the Half-Moon|62083|63
+Ordinary Miracles|62146|31
+Shonen Ashibe GO! GO! Goma-chan|62177|79
+Chrono Crusade|62256|84
+Shamanic Princess|62340|77
+Dimension High School|62417|54
+Million Arthur|62471|45
+Ikemen Sengoku: Bromances Across Time|62516|78
+Gakuen Alice|62594|38
+Ghostwriter|62632|24
+Martian Successor Nadesico|62656|60
+PriPri Chi-chan!!|62716|51
+Ultraman Geed|62767|58
+Angel Heart|62825|31
+Shin Atashinchi|62856|51
+Power Office Girls 2013|62907|37
+You Taught Me All the Precious Things|62944|50
+Kiitaro's yokai picture diary|62994|73
+Working Buddies!|63067|52
+You're Being Summoned, Azazel|63119|72
+KOWABON|63191|22
+Mazinkaiser SKL|63213|69
+Ai-Mai-Mi Mousou Catastrophe|63282|64
+The Nameko Families|63346|55
+THE [email protected] CINDERELLA GIRLS Theater|63401|96
+GTO Taiwan|63497|30
+TSUKIPRO THE ANIMATION|63527|64
+Twin Angels BREAK|63591|82
+FINAL FANTASY XV: EPISODE ARDYN - PROLOGUE|63673|88
+Jubei-chan: The Ninja Girl|63761|79
+BAKUMATSU GIJINDEN ROMAN|63840|69
+Shiratori Reiko|63909|29
+DNA^2|63938|50
+Peacemaker|63988|24
+Shining Tears X Wind|64012|60
+Rainy Cocoa sideG|64072|53
+Group Watch|64125|24
+Desperate Motherhood|64149|33
+Hikakin Beatbox|64182|28
+Kimagure Orange Road|64210|77
+Zapuni|64287|20
+Gakuen Heaven|64307|71
+Marmalade Boy|64378|28
+Tsukimonogatari|64406|80
+The Prince of Tennis II OVA vs Genius 10|64486|84
+Mobile Suit Gundam Wing - Endless Waltz|64570|74
+Honey and Clover|64644|67
+Anonymous Noise|64711|50
+Big Windup! 2|64761|40
+KAIJU GIRLS|64801|49
+Brave Beats|64850|39
+Ghost Slayers Ayashi|64889|76
+Karate Girl|64965|55
+Nagasarete Airanto|65020|46
+Thermae Romae|65066|76
+Ai-Mai-Mi Surgical Friends|65142|62
+Late night! The Genius Bakabon|65204|66
+Earl and Fairy|65270|72
+Cardfight!! Vanguard Legion Mate (Season 4)|65342|63
+Welcome to the JAPARI PARK|65405|41
+Anime Recap|65446|25
+Idol Incidents|65471|41
+HEROBANK|65512|36
+SD GUNDAM WORLD SANGOKU SOKETSUDEN|65548|80
+Pastel Memories|65628|59
+Million Doll|65687|39
+Nazotokine|65726|54
+Lupin the Third Part 2|65780|69
+Emma: A Victorian Romance|65849|65
+Ultraman Gaia|65914|27
+True Tears|65941|53
+Anisong Station|65994|40
+Nekomonogatari Black|66034|95
+Wacky TV Nanana|66129|36
+SENGOKUCHOJYUGIGA|66165|88
+Lupin the Third Part 1|66253|70
+Please Twins!|66323|56
+gdgd men's party|66379|35
+Hana Yori Dango (Boys Over Flowers)|66414|63
+Usakame|66477|51
+Music Girls|66528|60
+Lost Universe|66588|67
+Fist of the North Star: The Movie|66655|98
+Ultraman Nexus|66753|27
+Dallos|66780|33
+El-Hazard: The Wanderers|66813|63
+Ah My Buddha!!|66876|69
+Street Fighter II: The Animated Series|66945|58
+Chargeman Ken|67003|51
+Rainy Cocoa|67054|47
+Crane Game Girls|67101|44
+Welcome, Chitose|67145|29
+Meow Meow Japanese History|67174|58
+Accel World|67232|30
+The Last - Naruto the Movie|67262|55
+Inukami!|67317|58
+Street Fighter II The Animated Movie|67375|55
+Gokudo|67430|45
+Sketchbook ~full color's~|67475|67
+Girls Beyond the Wasteland|67542|61
+Frame Arms Girl|67603|57
+Matoi the Sacred Slayer|67660|49
+Shingu: Secret of the Stellar Wars|67709|61
+THE [email protected] CINDERELLA GIRLS|67770|79
+The Third: The Girl with the Blue Eye|67849|98
+Undefeated Bahamut Chronicle|67947|41
+Hagane Orchestra|67988|47
+Long Riders!|68035|63
+Doctor's Affairs|68098|29
+Unriddle|68127|46
+Strike Witches: 501st JOINT FIGHTER WING Take Off!|68173|84
+High School Entrance Exam|68257|38
+The Golden Path|68295|43
+Miss Machiko|68338|31
+Lily C.A.T|68369|29
+Key the Metal Idol|68398|58
+Time Bokan 24|68456|49
+The Journey Home|68505|55
+Ultraman Ginga|68560|27
+Fushigi Yugi: Eikoden|68587|83
+NAMUAMIDABUTSU! -UTENA-|68670|55
+Norn9|68725|55
+The World YAMIZUKAN|68780|64
+Pilot Candidate|68844|60
+The Sprites of Floria|68904|59
+Onimusha: Dawn of Dreams|68963|77
+LiSA TV|69040|25
+Fate/Grand Order -MOONLIGHT/LOSTROOM-|69065|57
+Ghastly Prince Enma Burning Up|69122|71
+Blue Seed|69193|67
+Elemental Gelade|69260|64
+Full Metal Panic! The Second Raid|69324|74
+CARDFIGHT!! VANGUARD|69398|39
+Super Gals!|69437|52
+Tamayura Hitotose|69489|59
+The Perfect Insider (Drama)|69548|41
+Gokuaku Ganbo|69589|27
+Slam Dunk (Dub)|69616|58
+Uchitama?! Have you seen my Tama?|69674|47
+Unico In the Island of Magic|69721|63
+Sea Prince and the Fire Child|69784|79
+A Wind Named Amnesia|69863|68
+The Legend of Black Heaven|69931|72
+Space Pirate Mito|70003|64
+W'z|70067|49
+The 101st Proposal|70116|31
+Ninja Nonsense|70147|56
+CLIF|70203|43
+Onna Nobunaga|70246|26
+Phoenix|70272|27
+Photon the Idiot Adventures|70299|80
+100% Teacher Pascal|70379|54
+Crunchyroll Collection|70433|48
+Princess Knight|70481|68
+Koi Koi Seven|70549|49
+EAT-MAN|70598|46
+Shinobi Girl|70644|44
+Mazinger Edition Z|70688|44
+He Was Anime (NFL's Mike Daniels)|70732|52
+K|70784|14
+Lupin the Third Part 3|70798|70
+Forget Me Not|70868|34
+Investor Z (Motion Manga)|70902|52
+Toward the Terra|70954|83
+Hakata Mentai! Pirikarako-chan|71037|45
+22/7 (nanabun no nijyuuni)|71082|40
+Giant Gorg|71122|45
+Cat's Eye|71167|54
+Fushigi Yugi OVA|71221|78
+Fantastic Adventures of Unico|71299|60
+Makeruna!! Aku no Gundan!|71359|61
+ARP Backstage Pass|71420|44
+The Galaxy Railways: A Letter from the Abandoned Planet|71464|102
+Cardcaptor Sakura: The Movie|71566|81
+Vampire Knight|71647|47
+Accel World: Infinite Burst|71694|47
+Super Robot Wars: Original Generation|71741|83
+Fantastic Detective Labyrinth|71824|70
+Days of Urashimasakatasen|71894|44
+Umi Monogatari|71938|63
+Aachi & Ssipak|72001|48
+The Ultimatum|72049|41
+Onyankopon|72090|24
+Space Adventure Cobra|72114|34
+SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-|72148|55
+Black Jack The Movie|72203|67
+Battle Girl High School|72270|51
+Tenchi Muyo! Ryo-Ohki|72321|34
+Magic of Stella|72355|50
+Banpresto World Figure Colosseum|72405|51
+Beyblade: Metal Fusion|72456|60
+Robot Carnival|72516|67
+Cardcaptor Sakura the Movie 2: The Sealed Card|72583|98
+Night on the Galactic Railroad|72681|76
+The Diary of Ochibi (Motion Manga)|72757|46
+Strait Jacket|72803|25
+Luck & Logic|72828|47
+Happy Life|72875|22
+The Wonderful Wizard of Oz|72897|64
+Tofugu|72961|18
+THE [email protected] Side M|72979|68
+Pita-Ten|73047|73
+Iida Tokimeki Trip|73120|30
+Ringing Bell|73150|49
+Kizuna AI 1st Live "hello, world"|73199|45
+Dancouga: Super Beast Machine God|73244|66
+Saint Seiya Hades (EN)|73310|34
+The Tenth Prism (Motion Manga)|73344|75
+The Glass Mask Year 3 Class D|73419|63
+Life in Additional Time|73482|35
+Action Heroine Cheer Fruits|73517|68
+Ultra Maniac|73585|61
+Chiruran 1/2|73646|46
+Japa Con Presents: Agent HaZAP|73692|47
+ORECA BATTLE|73739|47
+PEACE MAKER KUROGANE|73786|69
+THE [email protected] SideM Wakeatte Mini!|73855|82
+Female Convict Scorpion|73937|55
+Dai-Guard|73992|27
+Gasaraki|74019|54
+Soul Link|74073|27
+Shinobi Girl: The Movie|74100|35
+DYNAMIC CHORD|74135|38
+SHOKU-KING (Motion Manga)|74173|37
+Sailor Moon R: The Movie|74210|41
+Katana Maidens ~ Mini Toji|74251|53
+Naruto the Movie: Ninja Clash in the Land of Snow|74304|67
+Naruto the Movie: Legend of the Stone of Gelel|74371|64
+Jungle Emperor Leo|74435|48
+Naruto the Movie: Guardians of the Crescent Moon Kingdom|74483|74
+GoShogun|74557|41
+NG Knight Lamune & 40|74598|76
+Road To Ninja -Naruto the Movie|74674|49
+The Crunchyroll Anime Awards|74723|40
+Gakuen Basara: Samurai High School|74763|60
+Kamen no Maid Guy|74823|43
+EAT-MAN '98|74866|48
+Knuspercast|74914|23
+Magic User's Club|74937|66
+Steel Fisted Dragon|75003|51
+VS Knight Lamune & 40 Fire|75054|61
+Naruto Shippuden the Movie: The Will of Fire|75115|62
+Divine Gate|75177|46
+Wooser’s Hand-to-Mouth Life: Phantasmagoric Arc|75223|83
+Soul Hunter|75306|65
+God Mars|75371|52
+Arcana|75423|18
+SNACK WORLD|75441|23
+8 Man After|75464|45
+Zo Zo Zombie|75509|24
+Cosmo Warrior Zero|75533|55
+Mischievous Kiss - The Movie|75588|47
+K Missing Kings|75635|27
+Naruto Shippuden the Movie: Blood Prison|75662|58
+The Adventures of the Little Prince|75720|80
+Inuyasha the Movie 3: Swords of an Honorable Ruler|75800|97
+Swan Lake|75897|58
+Psybuster|75955|80
+Crunchyroll Convention Highlights|76035|45
+Captain Harlock: Arcadia of my Youth - Endless Orbit SSX|76080|100
+Inuyasha the Movie 2: The Castle Beyond the Looking Glass|76180|104
+K: Seven Stories|76284|28
+The Dragon Lives|76312|48
+Inuyasha the Movie:  Affections Touching Across Time|76360|99
+Naruto Shippuden the Movie: The Lost Tower|76459|60
+Inuyasha the Movie 4: Fire On the Mystic Island|76519|94
+Space Warrior Baldios|76613|90
+Captain Harlock: Arcadia of my Youth|76703|61
+Osomatsu-kun|76764|53
+Magic User's Club OVA|76817|70
+Izumo: Flash of a Brave Sword|76887|58
