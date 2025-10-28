@@ -1,0 +1,11 @@
+TAMANHO_REGISTRO:136|LIVRE:-1
+DELIM_CAMPO:|
+name|episodes|votes|weight|rate|genres
+BLEACH|366|23900|115445|4.83|
+Gintama|379|11435|55745|4.87|
+*Myself; Yourself|0|4588|22000|4.8|Drama, Romance, Slice Of Life
+Naruto|220|16613|79667|4.8|
+Naruto Shippuuden|500|48518|233346|4.81|
+REBORN!|0|12542|61262|4.88|
+Shugo Chara|51|33688|163641|4.86|
+Skip Beat!|0|15011|73683|4.91|Comedy, Drama, Romance
